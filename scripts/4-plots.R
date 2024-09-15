@@ -24,7 +24,7 @@ plant_grid_csr <- plot_grid_function(variables=c("shoot (g)", "root (g)", "root:
                                      data=mean_se,
                                      colors=amf_csr_colors)
 
-ggsave("Figure 1.pdf", plot=plant_grid_csr, path=fig.path, width=9.75, height=3.5, useDingbats=FALSE)
+ggsave("Figure 2.pdf", plot=plant_grid_csr, path=fig.path, width=9.75, height=3.5, useDingbats=FALSE)
 
 ## *****************************************************************************
 ## 2. amf traits ##############################################################
@@ -36,7 +36,7 @@ amf_grid_csr <- plot_grid_function(variables=c("hyphal length (m/g)", "% root co
                                    data=mean_se,
                                    colors=amf_csr_colors, rows = 2)
 
-ggsave("Figure 2.pdf", plot=amf_grid_csr, path=fig.path, width=7, height=6, useDingbats=FALSE)
+ggsave("Figure 3.pdf", plot=amf_grid_csr, path=fig.path, width=7, height=6, useDingbats=FALSE)
 
 
 ## *****************************************************************************
@@ -51,7 +51,7 @@ floral_grid_csr <- plot_grid_function(variables=c("flower size (cm)", "number of
                                       colors=amf_csr_colors, rows = 3)
 
 
-ggsave("Figure 3.pdf", plot=floral_grid_csr, path=fig.path, width=7, height=8.25, useDingbats=FALSE)
+ggsave("Figure 4.pdf", plot=floral_grid_csr, path=fig.path, width=7, height=8.25, useDingbats=FALSE)
 
 ## *****************************************************************************
 ## 4. bee visitation ##########################################################
@@ -63,4 +63,4 @@ bv_grid_csr <- plot_grid_function(variables=c("number of bee visits",
                                   data=mean_se,
                                   colors=amf_csr_colors, rows = 1)
 
-ggsave("Figure 4.pdf", plot=bv_grid_csr, path=fig.path, width=7, height=3.5, useDingbats=FALSE)
+ggsave("Figure 5.pdf", plot=bv_grid_csr, path=fig.path, width=7, height=3.5, useDingbats=FALSE)
