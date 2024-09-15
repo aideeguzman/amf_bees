@@ -1,0 +1,901 @@
+"plant_id","p_supply","amf_csr","amf_richness","amf_pa","replicate","field_measure_date","flower_type","tot_flower","flower_d_cm","nectar_mm","nectar_brix","pollen_density","protein_mg_l"
+1,"low","competitor","2 sp","present",1,2019-08-10,"male",0,NA,NA,NA,NA,NA
+1,"low","competitor","2 sp","present",1,2019-08-10,"female",NA,NA,NA,NA,NA,NA
+2,"low","competitor","2 sp","present",2,2019-08-10,"male",3,NA,NA,NA,NA,NA
+2,"low","competitor","2 sp","present",2,2019-08-10,"female",NA,NA,NA,NA,NA,NA
+3,"low","competitor","2 sp","present",3,2019-08-10,"male",5,NA,NA,NA,NA,NA
+3,"low","competitor","2 sp","present",3,2019-08-10,"female",NA,NA,NA,NA,NA,NA
+4,"low","competitor","2 sp","present",4,2019-08-10,"male",3,NA,NA,NA,NA,NA
+4,"low","competitor","2 sp","present",4,2019-08-10,"female",NA,NA,NA,NA,NA,NA
+5,"low","competitor","2 sp","present",5,2019-08-10,"male",2,NA,NA,NA,NA,NA
+5,"low","competitor","2 sp","present",5,2019-08-10,"female",NA,NA,NA,NA,NA,NA
+6,"high","competitor","2 sp","present",1,2019-08-10,"male",3,NA,NA,NA,NA,NA
+6,"high","competitor","2 sp","present",1,2019-08-10,"female",NA,NA,NA,NA,NA,NA
+7,"high","competitor","2 sp","present",2,2019-08-10,"male",3,NA,NA,NA,NA,NA
+7,"high","competitor","2 sp","present",2,2019-08-10,"female",NA,NA,NA,NA,NA,NA
+8,"high","competitor","2 sp","present",3,2019-08-10,"male",1,NA,NA,NA,NA,NA
+8,"high","competitor","2 sp","present",3,2019-08-10,"female",NA,NA,NA,NA,NA,NA
+9,"high","competitor","2 sp","present",4,2019-08-10,"male",0,NA,NA,NA,NA,NA
+9,"high","competitor","2 sp","present",4,2019-08-10,"female",NA,NA,NA,NA,NA,NA
+10,"high","competitor","2 sp","present",5,2019-08-10,"male",2,NA,NA,NA,NA,NA
+10,"high","competitor","2 sp","present",5,2019-08-10,"female",NA,NA,NA,NA,NA,NA
+11,"low","csr","6 sp","present",1,2019-08-10,"male",2,NA,NA,NA,NA,NA
+11,"low","csr","6 sp","present",1,2019-08-10,"female",NA,NA,NA,NA,NA,NA
+12,"low","csr","6 sp","present",2,2019-08-10,"male",3,NA,NA,NA,NA,NA
+12,"low","csr","6 sp","present",2,2019-08-10,"female",NA,NA,NA,NA,NA,NA
+13,"low","csr","6 sp","present",3,2019-08-10,"male",3,NA,NA,NA,NA,NA
+13,"low","csr","6 sp","present",3,2019-08-10,"female",NA,NA,NA,NA,NA,NA
+14,"low","csr","6 sp","present",4,2019-08-10,"male",2,NA,NA,NA,NA,NA
+14,"low","csr","6 sp","present",4,2019-08-10,"female",NA,NA,NA,NA,NA,NA
+15,"low","csr","6 sp","present",5,2019-08-10,"male",3,NA,NA,NA,NA,NA
+15,"low","csr","6 sp","present",5,2019-08-10,"female",NA,NA,NA,NA,NA,NA
+16,"high","csr","6 sp","present",1,2019-08-10,"male",3,NA,NA,NA,NA,NA
+16,"high","csr","6 sp","present",1,2019-08-10,"female",NA,NA,NA,NA,NA,NA
+17,"high","csr","6 sp","present",2,2019-08-10,"male",2,NA,NA,NA,NA,NA
+17,"high","csr","6 sp","present",2,2019-08-10,"female",NA,NA,NA,NA,NA,NA
+18,"high","csr","6 sp","present",3,2019-08-10,"male",5,NA,NA,NA,NA,NA
+18,"high","csr","6 sp","present",3,2019-08-10,"female",NA,NA,NA,NA,NA,NA
+19,"high","csr","6 sp","present",4,2019-08-10,"male",4,NA,NA,NA,NA,NA
+19,"high","csr","6 sp","present",4,2019-08-10,"female",NA,NA,NA,NA,NA,NA
+20,"high","csr","6 sp","present",5,2019-08-10,"male",1,NA,NA,NA,NA,NA
+20,"high","csr","6 sp","present",5,2019-08-10,"female",NA,NA,NA,NA,NA,NA
+21,"low","none","0 sp","absent",1,2019-08-10,"male",0,NA,NA,NA,NA,NA
+21,"low","none","0 sp","absent",1,2019-08-10,"female",NA,NA,NA,NA,NA,NA
+22,"low","none","0 sp","absent",2,2019-08-10,"male",0,NA,NA,NA,NA,NA
+22,"low","none","0 sp","absent",2,2019-08-10,"female",NA,NA,NA,NA,NA,NA
+23,"low","none","0 sp","absent",3,2019-08-10,"male",1,NA,NA,NA,NA,NA
+23,"low","none","0 sp","absent",3,2019-08-10,"female",NA,NA,NA,NA,NA,NA
+24,"low","none","0 sp","absent",4,2019-08-10,"male",2,NA,NA,NA,NA,NA
+24,"low","none","0 sp","absent",4,2019-08-10,"female",NA,NA,NA,NA,NA,NA
+25,"low","none","0 sp","absent",5,2019-08-10,"male",1,NA,NA,NA,NA,NA
+25,"low","none","0 sp","absent",5,2019-08-10,"female",NA,NA,NA,NA,NA,NA
+26,"high","none","0 sp","absent",1,2019-08-10,"male",3,NA,NA,NA,NA,NA
+26,"high","none","0 sp","absent",1,2019-08-10,"female",NA,NA,NA,NA,NA,NA
+27,"high","none","0 sp","absent",2,2019-08-10,"male",3,NA,NA,NA,NA,NA
+27,"high","none","0 sp","absent",2,2019-08-10,"female",NA,NA,NA,NA,NA,NA
+28,"high","none","0 sp","absent",3,2019-08-10,"male",1,NA,NA,NA,NA,NA
+28,"high","none","0 sp","absent",3,2019-08-10,"female",NA,NA,NA,NA,NA,NA
+29,"high","none","0 sp","absent",4,2019-08-10,"male",1,NA,NA,NA,NA,NA
+29,"high","none","0 sp","absent",4,2019-08-10,"female",NA,NA,NA,NA,NA,NA
+30,"high","none","0 sp","absent",5,2019-08-10,"male",3,NA,NA,NA,NA,NA
+30,"high","none","0 sp","absent",5,2019-08-10,"female",NA,NA,NA,NA,NA,NA
+31,"low","ruderal","2 sp","present",1,2019-08-10,"male",4,NA,NA,NA,NA,NA
+31,"low","ruderal","2 sp","present",1,2019-08-10,"female",NA,NA,NA,NA,NA,NA
+32,"low","ruderal","2 sp","present",2,2019-08-10,"male",4,NA,NA,NA,NA,NA
+32,"low","ruderal","2 sp","present",2,2019-08-10,"female",NA,NA,NA,NA,NA,NA
+33,"low","ruderal","2 sp","present",3,2019-08-10,"male",3,NA,NA,NA,NA,NA
+33,"low","ruderal","2 sp","present",3,2019-08-10,"female",NA,NA,NA,NA,NA,NA
+34,"low","ruderal","2 sp","present",4,2019-08-10,"male",2,NA,NA,NA,NA,NA
+34,"low","ruderal","2 sp","present",4,2019-08-10,"female",NA,NA,NA,NA,NA,NA
+35,"low","ruderal","2 sp","present",5,2019-08-10,"male",2,NA,NA,NA,NA,NA
+35,"low","ruderal","2 sp","present",5,2019-08-10,"female",NA,NA,NA,NA,NA,NA
+36,"high","ruderal","2 sp","present",1,2019-08-10,"male",3,NA,NA,NA,NA,NA
+36,"high","ruderal","2 sp","present",1,2019-08-10,"female",NA,NA,NA,NA,NA,NA
+37,"high","ruderal","2 sp","present",2,2019-08-10,"male",5,NA,NA,NA,NA,NA
+37,"high","ruderal","2 sp","present",2,2019-08-10,"female",NA,NA,NA,NA,NA,NA
+38,"high","ruderal","2 sp","present",3,2019-08-10,"male",2,NA,NA,NA,NA,NA
+38,"high","ruderal","2 sp","present",3,2019-08-10,"female",NA,NA,NA,NA,NA,NA
+39,"high","ruderal","2 sp","present",4,2019-08-10,"male",5,NA,NA,NA,NA,NA
+39,"high","ruderal","2 sp","present",4,2019-08-10,"female",NA,NA,NA,NA,NA,NA
+40,"high","ruderal","2 sp","present",5,2019-08-10,"male",2,NA,NA,NA,NA,NA
+40,"high","ruderal","2 sp","present",5,2019-08-10,"female",NA,NA,NA,NA,NA,NA
+41,"low","stress tolerant","2 sp","present",1,2019-08-10,"male",2,NA,NA,NA,NA,NA
+41,"low","stress tolerant","2 sp","present",1,2019-08-10,"female",NA,NA,NA,NA,NA,NA
+42,"low","stress tolerant","2 sp","present",2,2019-08-10,"male",2,NA,NA,NA,NA,NA
+42,"low","stress tolerant","2 sp","present",2,2019-08-10,"female",NA,NA,NA,NA,NA,NA
+43,"low","stress tolerant","2 sp","present",3,2019-08-10,"male",3,NA,NA,NA,NA,NA
+43,"low","stress tolerant","2 sp","present",3,2019-08-10,"female",NA,NA,NA,NA,NA,NA
+44,"low","stress tolerant","2 sp","present",4,2019-08-10,"male",1,NA,NA,NA,NA,NA
+44,"low","stress tolerant","2 sp","present",4,2019-08-10,"female",NA,NA,NA,NA,NA,NA
+45,"low","stress tolerant","2 sp","present",5,2019-08-10,"male",2,NA,NA,NA,NA,NA
+45,"low","stress tolerant","2 sp","present",5,2019-08-10,"female",NA,NA,NA,NA,NA,NA
+46,"high","stress tolerant","2 sp","present",1,2019-08-10,"male",1,NA,NA,NA,NA,NA
+46,"high","stress tolerant","2 sp","present",1,2019-08-10,"female",NA,NA,NA,NA,NA,NA
+47,"high","stress tolerant","2 sp","present",2,2019-08-10,"male",5,NA,NA,NA,NA,NA
+47,"high","stress tolerant","2 sp","present",2,2019-08-10,"female",NA,NA,NA,NA,NA,NA
+48,"high","stress tolerant","2 sp","present",3,2019-08-10,"male",3,NA,NA,NA,NA,NA
+48,"high","stress tolerant","2 sp","present",3,2019-08-10,"female",NA,NA,NA,NA,NA,NA
+49,"high","stress tolerant","2 sp","present",4,2019-08-10,"male",2,NA,NA,NA,NA,NA
+49,"high","stress tolerant","2 sp","present",4,2019-08-10,"female",NA,NA,NA,NA,NA,NA
+50,"high","stress tolerant","2 sp","present",5,2019-08-10,"male",0,NA,NA,NA,NA,NA
+50,"high","stress tolerant","2 sp","present",5,2019-08-10,"female",NA,NA,NA,NA,NA,NA
+1,"low","competitor","2 sp","present",1,2019-08-12,"male",0,NA,NA,NA,NA,NA
+1,"low","competitor","2 sp","present",1,2019-08-12,"female",NA,NA,NA,NA,NA,NA
+2,"low","competitor","2 sp","present",2,2019-08-12,"male",4,9.1,37,39,64,0.699860007322948
+2,"low","competitor","2 sp","present",2,2019-08-12,"female",NA,NA,NA,NA,NA,NA
+3,"low","competitor","2 sp","present",3,2019-08-12,"male",4,10.5,NA,NA,343,0.76156844060037
+3,"low","competitor","2 sp","present",3,2019-08-12,"female",NA,NA,NA,NA,NA,NA
+4,"low","competitor","2 sp","present",4,2019-08-12,"male",3,NA,NA,NA,NA,NA
+4,"low","competitor","2 sp","present",4,2019-08-12,"female",NA,NA,NA,NA,NA,NA
+5,"low","competitor","2 sp","present",5,2019-08-12,"male",4,10.1,80,46,408,0.626163280459963
+5,"low","competitor","2 sp","present",5,2019-08-12,"female",NA,NA,NA,NA,NA,NA
+6,"high","competitor","2 sp","present",1,2019-08-12,"male",5,NA,51,47,391,0.743377564565563
+6,"high","competitor","2 sp","present",1,2019-08-12,"female",NA,10.5,NA,NA,NA,NA
+7,"high","competitor","2 sp","present",2,2019-08-12,"male",4,NA,NA,NA,NA,NA
+7,"high","competitor","2 sp","present",2,2019-08-12,"female",NA,NA,NA,NA,NA,NA
+8,"high","competitor","2 sp","present",3,2019-08-12,"male",3,NA,NA,NA,NA,NA
+8,"high","competitor","2 sp","present",3,2019-08-12,"female",NA,12,380,66,NA,NA
+9,"high","competitor","2 sp","present",4,2019-08-12,"male",3,NA,NA,NA,NA,NA
+9,"high","competitor","2 sp","present",4,2019-08-12,"female",NA,10.5,325,42,NA,NA
+10,"high","competitor","2 sp","present",5,2019-08-12,"male",4,NA,NA,NA,NA,NA
+10,"high","competitor","2 sp","present",5,2019-08-12,"female",NA,NA,NA,NA,NA,NA
+11,"low","csr","6 sp","present",1,2019-08-12,"male",2,9.6,102,37,121,0.492995176290324
+11,"low","csr","6 sp","present",1,2019-08-12,"female",NA,NA,NA,NA,NA,NA
+12,"low","csr","6 sp","present",2,2019-08-12,"male",2,9.4,NA,NA,290,0.643476153955313
+12,"low","csr","6 sp","present",2,2019-08-12,"female",NA,NA,NA,NA,NA,NA
+13,"low","csr","6 sp","present",3,2019-08-12,"male",3,10.5,NA,NA,55,0.737851439973908
+13,"low","csr","6 sp","present",3,2019-08-12,"female",NA,NA,NA,NA,NA,NA
+14,"low","csr","6 sp","present",4,2019-08-12,"male",2,10.9,128,36.5,55,0.697082173912626
+14,"low","csr","6 sp","present",4,2019-08-12,"female",NA,NA,NA,NA,NA,NA
+15,"low","csr","6 sp","present",5,2019-08-12,"male",2,8.5,145,40,137,0.616157836080616
+15,"low","csr","6 sp","present",5,2019-08-12,"female",NA,NA,NA,NA,NA,NA
+16,"high","csr","6 sp","present",1,2019-08-12,"male",3,NA,NA,NA,NA,NA
+16,"high","csr","6 sp","present",1,2019-08-12,"female",NA,10.6,NA,NA,NA,NA
+17,"high","csr","6 sp","present",2,2019-08-12,"male",3,10.5,27,41,220,0.483165784137114
+17,"high","csr","6 sp","present",2,2019-08-12,"female",NA,NA,NA,NA,NA,NA
+18,"high","csr","6 sp","present",3,2019-08-12,"male",5,10.5,NA,NA,123,0.535231015161844
+18,"high","csr","6 sp","present",3,2019-08-12,"female",NA,NA,NA,NA,NA,NA
+19,"high","csr","6 sp","present",4,2019-08-12,"male",4,11.1,153,40,182,0.4704469773639
+19,"high","csr","6 sp","present",4,2019-08-12,"female",NA,NA,NA,NA,NA,NA
+20,"high","csr","6 sp","present",5,2019-08-12,"male",4,NA,NA,NA,NA,NA
+20,"high","csr","6 sp","present",5,2019-08-12,"female",NA,NA,NA,NA,NA,NA
+21,"low","none","0 sp","absent",1,2019-08-12,"male",1,NA,NA,NA,NA,NA
+21,"low","none","0 sp","absent",1,2019-08-12,"female",NA,NA,NA,NA,NA,NA
+22,"low","none","0 sp","absent",2,2019-08-12,"male",1,NA,NA,NA,NA,NA
+22,"low","none","0 sp","absent",2,2019-08-12,"female",NA,NA,NA,NA,NA,NA
+23,"low","none","0 sp","absent",3,2019-08-12,"male",0,NA,NA,NA,NA,NA
+23,"low","none","0 sp","absent",3,2019-08-12,"female",NA,NA,NA,NA,NA,NA
+24,"low","none","0 sp","absent",4,2019-08-12,"male",3,10.5,61,35,82,0.621225229408267
+24,"low","none","0 sp","absent",4,2019-08-12,"female",NA,NA,NA,NA,NA,NA
+25,"low","none","0 sp","absent",5,2019-08-12,"male",2,9.5,62,39.5,367,0.570467672298446
+25,"low","none","0 sp","absent",5,2019-08-12,"female",NA,NA,NA,NA,NA,NA
+26,"high","none","0 sp","absent",1,2019-08-12,"male",4,8,53,37,21,0.556471131782091
+26,"high","none","0 sp","absent",1,2019-08-12,"female",NA,NA,NA,NA,NA,NA
+27,"high","none","0 sp","absent",2,2019-08-12,"male",2,8.9,51,38,23,0.47256094098296
+27,"high","none","0 sp","absent",2,2019-08-12,"female",NA,9.9,267,43,NA,NA
+28,"high","none","0 sp","absent",3,2019-08-12,"male",1,NA,NA,NA,NA,NA
+28,"high","none","0 sp","absent",3,2019-08-12,"female",NA,10.6,456,40,NA,NA
+29,"high","none","0 sp","absent",4,2019-08-12,"male",6,9,61,32,32,0.533179228560409
+29,"high","none","0 sp","absent",4,2019-08-12,"female",NA,NA,NA,NA,NA,NA
+30,"high","none","0 sp","absent",5,2019-08-12,"male",4,NA,NA,NA,NA,NA
+30,"high","none","0 sp","absent",5,2019-08-12,"female",NA,NA,NA,NA,NA,NA
+31,"low","ruderal","2 sp","present",1,2019-08-12,"male",4,9.5,63,51,31,0.654401889023334
+31,"low","ruderal","2 sp","present",1,2019-08-12,"female",NA,NA,NA,NA,NA,NA
+32,"low","ruderal","2 sp","present",2,2019-08-12,"male",3,NA,NA,NA,NA,NA
+32,"low","ruderal","2 sp","present",2,2019-08-12,"female",NA,NA,NA,NA,NA,NA
+33,"low","ruderal","2 sp","present",3,2019-08-12,"male",4,11.1,87,44.5,153,0.475839445368158
+33,"low","ruderal","2 sp","present",3,2019-08-12,"female",NA,NA,NA,NA,NA,NA
+34,"low","ruderal","2 sp","present",4,2019-08-12,"male",2,NA,NA,NA,NA,NA
+34,"low","ruderal","2 sp","present",4,2019-08-12,"female",NA,NA,NA,NA,NA,NA
+35,"low","ruderal","2 sp","present",5,2019-08-12,"male",3,10.5,98,46.5,61,0.525386480495047
+35,"low","ruderal","2 sp","present",5,2019-08-12,"female",NA,NA,NA,NA,NA,NA
+36,"high","ruderal","2 sp","present",1,2019-08-12,"male",3,10.5,97,59,65,0.505491991412645
+36,"high","ruderal","2 sp","present",1,2019-08-12,"female",NA,NA,NA,NA,NA,NA
+37,"high","ruderal","2 sp","present",2,2019-08-12,"male",7,NA,NA,NA,NA,NA
+37,"high","ruderal","2 sp","present",2,2019-08-12,"female",NA,11.5,366,44,NA,NA
+38,"high","ruderal","2 sp","present",3,2019-08-12,"male",4,10.5,77,38,178,0.566098427913202
+38,"high","ruderal","2 sp","present",3,2019-08-12,"female",NA,NA,NA,NA,NA,NA
+39,"high","ruderal","2 sp","present",4,2019-08-12,"male",4,6.6,31,32,42,0.420005050813163
+39,"high","ruderal","2 sp","present",4,2019-08-12,"female",NA,9.5,332,40,NA,NA
+40,"high","ruderal","2 sp","present",5,2019-08-12,"male",4,11.5,NA,NA,126,0.511760301181271
+40,"high","ruderal","2 sp","present",5,2019-08-12,"female",NA,NA,NA,NA,NA,NA
+41,"low","stress tolerant","2 sp","present",1,2019-08-12,"male",2,11.1,84,52,130,0.552102277491436
+41,"low","stress tolerant","2 sp","present",1,2019-08-12,"female",NA,NA,NA,NA,NA,NA
+42,"low","stress tolerant","2 sp","present",2,2019-08-12,"male",3,10.5,96,61,86,0.562626637653991
+42,"low","stress tolerant","2 sp","present",2,2019-08-12,"female",NA,NA,NA,NA,NA,NA
+43,"low","stress tolerant","2 sp","present",3,2019-08-12,"male",3,NA,NA,NA,NA,NA
+43,"low","stress tolerant","2 sp","present",3,2019-08-12,"female",NA,NA,NA,NA,NA,NA
+44,"low","stress tolerant","2 sp","present",4,2019-08-12,"male",2,NA,NA,NA,NA,NA
+44,"low","stress tolerant","2 sp","present",4,2019-08-12,"female",NA,NA,NA,NA,NA,NA
+45,"low","stress tolerant","2 sp","present",5,2019-08-12,"male",3,8.5,29,42,46,0.438884188204081
+45,"low","stress tolerant","2 sp","present",5,2019-08-12,"female",NA,NA,NA,NA,NA,NA
+46,"high","stress tolerant","2 sp","present",1,2019-08-12,"male",5,9.5,51,44.5,23,0.673891284066903
+46,"high","stress tolerant","2 sp","present",1,2019-08-12,"female",NA,NA,NA,NA,NA,NA
+47,"high","stress tolerant","2 sp","present",2,2019-08-12,"male",3,NA,NA,NA,NA,NA
+47,"high","stress tolerant","2 sp","present",2,2019-08-12,"female",NA,NA,NA,NA,NA,NA
+48,"high","stress tolerant","2 sp","present",3,2019-08-12,"male",3,8.5,0,NA,144,0.462431179534173
+48,"high","stress tolerant","2 sp","present",3,2019-08-12,"female",NA,NA,NA,NA,NA,NA
+49,"high","stress tolerant","2 sp","present",4,2019-08-12,"male",3,NA,NA,NA,NA,NA
+49,"high","stress tolerant","2 sp","present",4,2019-08-12,"female",NA,NA,NA,NA,NA,NA
+50,"high","stress tolerant","2 sp","present",5,2019-08-12,"male",3,10.5,78,34,107,0.532585271605704
+50,"high","stress tolerant","2 sp","present",5,2019-08-12,"female",NA,NA,NA,NA,NA,NA
+1,"low","competitor","2 sp","present",1,2019-08-13,"male",1,NA,NA,NA,NA,NA
+1,"low","competitor","2 sp","present",1,2019-08-13,"female",NA,8.4,NA,NA,NA,NA
+2,"low","competitor","2 sp","present",2,2019-08-13,"male",4,9,NA,NA,39,0.678580959576023
+2,"low","competitor","2 sp","present",2,2019-08-13,"female",NA,NA,NA,NA,NA,NA
+3,"low","competitor","2 sp","present",3,2019-08-13,"male",4,10.5,NA,NA,93,0.749999624268383
+3,"low","competitor","2 sp","present",3,2019-08-13,"female",NA,NA,NA,NA,NA,NA
+4,"low","competitor","2 sp","present",4,2019-08-13,"male",4,9,NA,NA,272,0.655828396672787
+4,"low","competitor","2 sp","present",4,2019-08-13,"female",NA,NA,NA,NA,NA,NA
+5,"low","competitor","2 sp","present",5,2019-08-13,"male",4,NA,NA,NA,NA,NA
+5,"low","competitor","2 sp","present",5,2019-08-13,"female",NA,NA,NA,NA,NA,NA
+6,"high","competitor","2 sp","present",1,2019-08-13,"male",5,NA,NA,NA,NA,NA
+6,"high","competitor","2 sp","present",1,2019-08-13,"female",NA,NA,NA,NA,NA,NA
+7,"high","competitor","2 sp","present",2,2019-08-13,"male",4,NA,NA,NA,NA,NA
+7,"high","competitor","2 sp","present",2,2019-08-13,"female",NA,NA,NA,NA,NA,NA
+8,"high","competitor","2 sp","present",3,2019-08-13,"male",4,9.1,NA,NA,405,0.764486093651959
+8,"high","competitor","2 sp","present",3,2019-08-13,"female",NA,NA,NA,NA,NA,NA
+9,"high","competitor","2 sp","present",4,2019-08-13,"male",2,NA,NA,NA,NA,NA
+9,"high","competitor","2 sp","present",4,2019-08-13,"female",NA,NA,NA,NA,NA,NA
+10,"high","competitor","2 sp","present",5,2019-08-13,"male",4,10,NA,NA,337,0.543759444826605
+10,"high","competitor","2 sp","present",5,2019-08-13,"female",NA,NA,NA,NA,NA,NA
+11,"low","csr","6 sp","present",1,2019-08-13,"male",3,8,NA,NA,173,0.552969440526474
+11,"low","csr","6 sp","present",1,2019-08-13,"female",NA,NA,NA,NA,NA,NA
+12,"low","csr","6 sp","present",2,2019-08-13,"male",4,8.5,NA,NA,161,0.649878526563942
+12,"low","csr","6 sp","present",2,2019-08-13,"female",NA,9,291,41,NA,NA
+13,"low","csr","6 sp","present",3,2019-08-13,"male",5,8.5,NA,NA,92,0.571971073875872
+13,"low","csr","6 sp","present",3,2019-08-13,"female",NA,NA,NA,NA,NA,NA
+14,"low","csr","6 sp","present",4,2019-08-13,"male",3,9.5,NA,NA,116,0.544419529642612
+14,"low","csr","6 sp","present",4,2019-08-13,"female",NA,NA,NA,NA,NA,NA
+15,"low","csr","6 sp","present",5,2019-08-13,"male",2,NA,NA,NA,NA,NA
+15,"low","csr","6 sp","present",5,2019-08-13,"female",NA,NA,NA,NA,NA,NA
+16,"high","csr","6 sp","present",1,2019-08-13,"male",5,10.5,NA,NA,169,0.648433871953518
+16,"high","csr","6 sp","present",1,2019-08-13,"female",NA,NA,NA,NA,NA,NA
+17,"high","csr","6 sp","present",2,2019-08-13,"male",3,10,NA,NA,NA,NA
+17,"high","csr","6 sp","present",2,2019-08-13,"female",NA,NA,NA,NA,NA,NA
+18,"high","csr","6 sp","present",3,2019-08-13,"male",6,NA,NA,NA,NA,NA
+18,"high","csr","6 sp","present",3,2019-08-13,"female",NA,11,335,41,NA,NA
+19,"high","csr","6 sp","present",4,2019-08-13,"male",4,8.5,NA,NA,124,0.426884022274084
+19,"high","csr","6 sp","present",4,2019-08-13,"female",NA,10.5,561,41,NA,NA
+20,"high","csr","6 sp","present",5,2019-08-13,"male",5,10.5,NA,NA,191,0.647400067677804
+20,"high","csr","6 sp","present",5,2019-08-13,"female",NA,NA,NA,NA,NA,NA
+21,"low","none","0 sp","absent",1,2019-08-13,"male",2,7.5,NA,NA,46,0.458144282789122
+21,"low","none","0 sp","absent",1,2019-08-13,"female",NA,NA,NA,NA,NA,NA
+22,"low","none","0 sp","absent",2,2019-08-13,"male",2,7.4,NA,NA,297,0.44949932221179
+22,"low","none","0 sp","absent",2,2019-08-13,"female",NA,NA,NA,NA,NA,NA
+23,"low","none","0 sp","absent",3,2019-08-13,"male",1,11.6,NA,NA,101,0.667448190530613
+23,"low","none","0 sp","absent",3,2019-08-13,"female",NA,NA,NA,NA,NA,NA
+24,"low","none","0 sp","absent",4,2019-08-13,"male",2,NA,NA,NA,NA,NA
+24,"low","none","0 sp","absent",4,2019-08-13,"female",NA,NA,NA,NA,NA,NA
+25,"low","none","0 sp","absent",5,2019-08-13,"male",1,NA,NA,NA,NA,NA
+25,"low","none","0 sp","absent",5,2019-08-13,"female",NA,NA,NA,NA,NA,NA
+26,"high","none","0 sp","absent",1,2019-08-13,"male",4,8.6,NA,NA,76,0.546971037313871
+26,"high","none","0 sp","absent",1,2019-08-13,"female",NA,NA,NA,NA,NA,NA
+27,"high","none","0 sp","absent",2,2019-08-13,"male",3,7,NA,NA,26,0.416772282451753
+27,"high","none","0 sp","absent",2,2019-08-13,"female",NA,NA,NA,NA,NA,NA
+28,"high","none","0 sp","absent",3,2019-08-13,"male",1,NA,NA,NA,NA,NA
+28,"high","none","0 sp","absent",3,2019-08-13,"female",NA,NA,NA,NA,NA,NA
+29,"high","none","0 sp","absent",4,2019-08-13,"male",7,6,NA,NA,23,0.509694148303846
+29,"high","none","0 sp","absent",4,2019-08-13,"female",NA,NA,NA,NA,NA,NA
+30,"high","none","0 sp","absent",5,2019-08-13,"male",3,NA,NA,NA,NA,NA
+30,"high","none","0 sp","absent",5,2019-08-13,"female",NA,NA,NA,NA,NA,NA
+31,"low","ruderal","2 sp","present",1,2019-08-13,"male",4,NA,NA,NA,NA,NA
+31,"low","ruderal","2 sp","present",1,2019-08-13,"female",NA,NA,NA,NA,NA,NA
+32,"low","ruderal","2 sp","present",2,2019-08-13,"male",2,9.4,NA,NA,172,0.642636836598071
+32,"low","ruderal","2 sp","present",2,2019-08-13,"female",NA,NA,NA,NA,NA,NA
+33,"low","ruderal","2 sp","present",3,2019-08-13,"male",3,NA,NA,NA,NA,NA
+33,"low","ruderal","2 sp","present",3,2019-08-13,"female",NA,NA,NA,NA,NA,NA
+34,"low","ruderal","2 sp","present",4,2019-08-13,"male",4,NA,NA,NA,NA,NA
+34,"low","ruderal","2 sp","present",4,2019-08-13,"female",NA,NA,NA,NA,NA,NA
+35,"low","ruderal","2 sp","present",5,2019-08-13,"male",4,9.5,NA,NA,222,0.545286997916641
+35,"low","ruderal","2 sp","present",5,2019-08-13,"female",NA,NA,NA,NA,NA,NA
+36,"high","ruderal","2 sp","present",1,2019-08-13,"male",3,NA,NA,NA,NA,NA
+36,"high","ruderal","2 sp","present",1,2019-08-13,"female",NA,NA,NA,NA,NA,NA
+37,"high","ruderal","2 sp","present",2,2019-08-13,"male",6,NA,NA,NA,NA,NA
+37,"high","ruderal","2 sp","present",2,2019-08-13,"female",NA,NA,NA,NA,NA,NA
+38,"high","ruderal","2 sp","present",3,2019-08-13,"male",4,NA,NA,NA,NA,NA
+38,"high","ruderal","2 sp","present",3,2019-08-13,"female",NA,NA,NA,NA,NA,NA
+39,"high","ruderal","2 sp","present",4,2019-08-13,"male",5,NA,NA,NA,NA,NA
+39,"high","ruderal","2 sp","present",4,2019-08-13,"female",NA,NA,NA,NA,NA,NA
+40,"high","ruderal","2 sp","present",5,2019-08-13,"male",5,NA,NA,NA,NA,NA
+40,"high","ruderal","2 sp","present",5,2019-08-13,"female",NA,10.5,410,40.5,NA,NA
+41,"low","stress tolerant","2 sp","present",1,2019-08-13,"male",1,NA,NA,NA,NA,NA
+41,"low","stress tolerant","2 sp","present",1,2019-08-13,"female",NA,NA,NA,NA,NA,NA
+42,"low","stress tolerant","2 sp","present",2,2019-08-13,"male",3,8.4,NA,NA,325,0.396693019577885
+42,"low","stress tolerant","2 sp","present",2,2019-08-13,"female",NA,NA,NA,NA,NA,NA
+43,"low","stress tolerant","2 sp","present",3,2019-08-13,"male",3,NA,NA,NA,NA,NA
+43,"low","stress tolerant","2 sp","present",3,2019-08-13,"female",NA,10.6,233,44,NA,NA
+44,"low","stress tolerant","2 sp","present",4,2019-08-13,"male",3,9.5,NA,NA,126,0.645497379520897
+44,"low","stress tolerant","2 sp","present",4,2019-08-13,"female",NA,NA,NA,NA,NA,NA
+45,"low","stress tolerant","2 sp","present",5,2019-08-13,"male",3,8.5,NA,NA,25,0.430572555259537
+45,"low","stress tolerant","2 sp","present",5,2019-08-13,"female",NA,NA,NA,NA,NA,NA
+46,"high","stress tolerant","2 sp","present",1,2019-08-13,"male",6,7,NA,NA,33,0.556320629432965
+46,"high","stress tolerant","2 sp","present",1,2019-08-13,"female",NA,NA,NA,NA,NA,NA
+47,"high","stress tolerant","2 sp","present",2,2019-08-13,"male",5,10.1,42,42,46,0.615180852788737
+47,"high","stress tolerant","2 sp","present",2,2019-08-13,"female",NA,10.5,198,50,NA,NA
+48,"high","stress tolerant","2 sp","present",3,2019-08-13,"male",4,NA,NA,NA,NA,NA
+48,"high","stress tolerant","2 sp","present",3,2019-08-13,"female",NA,NA,NA,NA,NA,NA
+49,"high","stress tolerant","2 sp","present",4,2019-08-13,"male",3,NA,NA,NA,NA,NA
+49,"high","stress tolerant","2 sp","present",4,2019-08-13,"female",NA,NA,NA,NA,NA,NA
+50,"high","stress tolerant","2 sp","present",5,2019-08-13,"male",3,9.9,NA,NA,44,0.45552346864512
+50,"high","stress tolerant","2 sp","present",5,2019-08-13,"female",NA,NA,NA,NA,NA,NA
+1,"low","competitor","2 sp","present",1,2019-08-15,"male",2,8.5,2,61,24,0.641567641385955
+1,"low","competitor","2 sp","present",1,2019-08-15,"female",NA,NA,NA,NA,NA,NA
+2,"low","competitor","2 sp","present",2,2019-08-15,"male",6,9.6,4,67,82,0.576935473065072
+2,"low","competitor","2 sp","present",2,2019-08-15,"female",NA,NA,NA,NA,NA,NA
+3,"low","competitor","2 sp","present",3,2019-08-15,"male",4,NA,NA,NA,NA,NA
+3,"low","competitor","2 sp","present",3,2019-08-15,"female",NA,NA,NA,NA,NA,NA
+4,"low","competitor","2 sp","present",4,2019-08-15,"male",2,8.6,25,50,64,0.62483706971208
+4,"low","competitor","2 sp","present",4,2019-08-15,"female",NA,NA,NA,NA,NA,NA
+5,"low","competitor","2 sp","present",5,2019-08-15,"male",5,NA,NA,NA,NA,NA
+5,"low","competitor","2 sp","present",5,2019-08-15,"female",NA,NA,NA,NA,NA,NA
+6,"high","competitor","2 sp","present",1,2019-08-15,"male",6,8.5,2,67,251,0.595569352211689
+6,"high","competitor","2 sp","present",1,2019-08-15,"female",NA,NA,NA,NA,NA,NA
+7,"high","competitor","2 sp","present",2,2019-08-15,"male",4,8.9,31,48.5,214,0.778320137119527
+7,"high","competitor","2 sp","present",2,2019-08-15,"female",NA,NA,NA,NA,NA,NA
+8,"high","competitor","2 sp","present",3,2019-08-15,"male",5,9.4,9,52,1389,0.744772693311761
+8,"high","competitor","2 sp","present",3,2019-08-15,"female",NA,10.5,213,47,NA,NA
+9,"high","competitor","2 sp","present",4,2019-08-15,"male",2,9.5,18,47,500,0.567123468321994
+9,"high","competitor","2 sp","present",4,2019-08-15,"female",NA,NA,NA,NA,NA,NA
+10,"high","competitor","2 sp","present",5,2019-08-15,"male",6,NA,NA,NA,NA,NA
+10,"high","competitor","2 sp","present",5,2019-08-15,"female",NA,NA,NA,NA,NA,NA
+11,"low","csr","6 sp","present",1,2019-08-15,"male",3,11,NA,NA,94,0.684718251483469
+11,"low","csr","6 sp","present",1,2019-08-15,"female",NA,NA,NA,NA,NA,NA
+12,"low","csr","6 sp","present",2,2019-08-15,"male",4,NA,NA,NA,NA,NA
+12,"low","csr","6 sp","present",2,2019-08-15,"female",NA,NA,NA,NA,NA,NA
+13,"low","csr","6 sp","present",3,2019-08-15,"male",6,9.5,23,43,44,0.784132334732783
+13,"low","csr","6 sp","present",3,2019-08-15,"female",NA,NA,NA,NA,NA,NA
+14,"low","csr","6 sp","present",4,2019-08-15,"male",5,10.9,84,57,373,0.625242158300686
+14,"low","csr","6 sp","present",4,2019-08-15,"female",NA,NA,NA,NA,NA,NA
+15,"low","csr","6 sp","present",5,2019-08-15,"male",4,8.4,NA,NA,153,0.847223874462411
+15,"low","csr","6 sp","present",5,2019-08-15,"female",NA,8.5,313,47,NA,NA
+16,"high","csr","6 sp","present",1,2019-08-15,"male",6,10.9,83,39,272,0.693635227189039
+16,"high","csr","6 sp","present",1,2019-08-15,"female",NA,NA,NA,NA,NA,NA
+17,"high","csr","6 sp","present",2,2019-08-15,"male",3,11.5,NA,NA,56,0.818738587308731
+17,"high","csr","6 sp","present",2,2019-08-15,"female",NA,NA,NA,NA,NA,NA
+18,"high","csr","6 sp","present",3,2019-08-15,"male",7,NA,NA,NA,NA,NA
+18,"high","csr","6 sp","present",3,2019-08-15,"female",NA,NA,NA,NA,NA,NA
+19,"high","csr","6 sp","present",4,2019-08-15,"male",3,11.9,122,41.5,38,0.455699184195672
+19,"high","csr","6 sp","present",4,2019-08-15,"female",NA,NA,NA,NA,NA,NA
+20,"high","csr","6 sp","present",5,2019-08-15,"male",4,NA,NA,NA,NA,NA
+20,"high","csr","6 sp","present",5,2019-08-15,"female",NA,NA,NA,NA,NA,NA
+21,"low","none","0 sp","absent",1,2019-08-15,"male",3,8.4,16,43.5,23,0.392292983420921
+21,"low","none","0 sp","absent",1,2019-08-15,"female",NA,NA,NA,NA,NA,NA
+22,"low","none","0 sp","absent",2,2019-08-15,"male",2,NA,NA,NA,NA,NA
+22,"low","none","0 sp","absent",2,2019-08-15,"female",NA,NA,NA,NA,NA,NA
+23,"low","none","0 sp","absent",3,2019-08-15,"male",3,10.9,15,51,84,0.512954580338061
+23,"low","none","0 sp","absent",3,2019-08-15,"female",NA,NA,NA,NA,NA,NA
+24,"low","none","0 sp","absent",4,2019-08-15,"male",3,10.1,27,41.5,198,0.789895667311092
+24,"low","none","0 sp","absent",4,2019-08-15,"female",NA,NA,125,42.5,NA,NA
+25,"low","none","0 sp","absent",5,2019-08-15,"male",5,NA,NA,NA,NA,NA
+25,"low","none","0 sp","absent",5,2019-08-15,"female",NA,NA,NA,NA,NA,NA
+26,"high","none","0 sp","absent",1,2019-08-15,"male",4,NA,2,NA,NA,NA
+26,"high","none","0 sp","absent",1,2019-08-15,"female",NA,NA,126,47,NA,NA
+27,"high","none","0 sp","absent",2,2019-08-15,"male",4,10,28,45.5,139,0.532504882621762
+27,"high","none","0 sp","absent",2,2019-08-15,"female",NA,9,NA,NA,NA,NA
+28,"high","none","0 sp","absent",3,2019-08-15,"male",4,10,6,NA,229,0.685084705786204
+28,"high","none","0 sp","absent",3,2019-08-15,"female",NA,NA,245,43,NA,NA
+29,"high","none","0 sp","absent",4,2019-08-15,"male",4,10.5,40,44,144,0.511378174448355
+29,"high","none","0 sp","absent",4,2019-08-15,"female",NA,8,NA,NA,NA,NA
+30,"high","none","0 sp","absent",5,2019-08-15,"male",0,NA,NA,NA,NA,NA
+30,"high","none","0 sp","absent",5,2019-08-15,"female",NA,NA,NA,NA,NA,NA
+31,"low","ruderal","2 sp","present",1,2019-08-15,"male",0,NA,NA,NA,NA,NA
+31,"low","ruderal","2 sp","present",1,2019-08-15,"female",NA,NA,NA,NA,NA,NA
+32,"low","ruderal","2 sp","present",2,2019-08-15,"male",0,NA,NA,NA,NA,NA
+32,"low","ruderal","2 sp","present",2,2019-08-15,"female",NA,NA,NA,NA,NA,NA
+33,"low","ruderal","2 sp","present",3,2019-08-15,"male",0,9.1,60,45,85,0.670581654152602
+33,"low","ruderal","2 sp","present",3,2019-08-15,"female",NA,NA,NA,NA,NA,NA
+34,"low","ruderal","2 sp","present",4,2019-08-15,"male",0,11.9,97,44,49,0.693028158860302
+34,"low","ruderal","2 sp","present",4,2019-08-15,"female",NA,NA,NA,NA,NA,NA
+35,"low","ruderal","2 sp","present",5,2019-08-15,"male",0,8.4,40,45,93,0.745251210930807
+35,"low","ruderal","2 sp","present",5,2019-08-15,"female",NA,NA,NA,NA,NA,NA
+36,"high","ruderal","2 sp","present",1,2019-08-15,"male",0,8.9,22,45,152,0.534996720411401
+36,"high","ruderal","2 sp","present",1,2019-08-15,"female",NA,8,109,46,NA,NA
+37,"high","ruderal","2 sp","present",2,2019-08-15,"male",0,NA,NA,NA,NA,NA
+37,"high","ruderal","2 sp","present",2,2019-08-15,"female",NA,NA,NA,NA,NA,NA
+38,"high","ruderal","2 sp","present",3,2019-08-15,"male",0,10.5,NA,NA,98,0.76762308893423
+38,"high","ruderal","2 sp","present",3,2019-08-15,"female",NA,NA,NA,NA,NA,NA
+39,"high","ruderal","2 sp","present",4,2019-08-15,"male",0,6.5,NA,NA,67,0.448427076935964
+39,"high","ruderal","2 sp","present",4,2019-08-15,"female",NA,NA,NA,NA,NA,NA
+40,"high","ruderal","2 sp","present",5,2019-08-15,"male",0,NA,NA,NA,NA,NA
+40,"high","ruderal","2 sp","present",5,2019-08-15,"female",NA,NA,NA,NA,NA,NA
+41,"low","stress tolerant","2 sp","present",1,2019-08-15,"male",0,11.5,29,49.5,193,0.387517771720257
+41,"low","stress tolerant","2 sp","present",1,2019-08-15,"female",NA,NA,NA,NA,NA,NA
+42,"low","stress tolerant","2 sp","present",2,2019-08-15,"male",0,9.9,39,57,125,0.678079668953426
+42,"low","stress tolerant","2 sp","present",2,2019-08-15,"female",NA,NA,NA,NA,NA,NA
+43,"low","stress tolerant","2 sp","present",3,2019-08-15,"male",0,11,72,52,31,0.560560225187178
+43,"low","stress tolerant","2 sp","present",3,2019-08-15,"female",NA,NA,NA,NA,NA,NA
+44,"low","stress tolerant","2 sp","present",4,2019-08-15,"male",0,NA,NA,NA,NA,NA
+44,"low","stress tolerant","2 sp","present",4,2019-08-15,"female",NA,NA,NA,NA,NA,NA
+45,"low","stress tolerant","2 sp","present",5,2019-08-15,"male",0,NA,NA,NA,NA,NA
+45,"low","stress tolerant","2 sp","present",5,2019-08-15,"female",NA,NA,NA,NA,NA,NA
+46,"high","stress tolerant","2 sp","present",1,2019-08-15,"male",0,10.5,43,52.5,568,0.808794045485967
+46,"high","stress tolerant","2 sp","present",1,2019-08-15,"female",NA,NA,NA,NA,NA,NA
+47,"high","stress tolerant","2 sp","present",2,2019-08-15,"male",0,9,NA,NA,55,0.462265417572377
+47,"high","stress tolerant","2 sp","present",2,2019-08-15,"female",NA,NA,NA,NA,NA,NA
+48,"high","stress tolerant","2 sp","present",3,2019-08-15,"male",0,NA,NA,NA,NA,NA
+48,"high","stress tolerant","2 sp","present",3,2019-08-15,"female",NA,NA,NA,NA,NA,NA
+49,"high","stress tolerant","2 sp","present",4,2019-08-15,"male",0,9,NA,NA,479,0.57163945277752
+49,"high","stress tolerant","2 sp","present",4,2019-08-15,"female",NA,NA,NA,NA,NA,NA
+50,"high","stress tolerant","2 sp","present",5,2019-08-15,"male",0,10.1,39,42,30,0.458763583369455
+50,"high","stress tolerant","2 sp","present",5,2019-08-15,"female",NA,NA,NA,NA,NA,NA
+1,"low","competitor","2 sp","present",1,2019-08-16,"male",1,8.4,0,NA,36,0.754862743566388
+1,"low","competitor","2 sp","present",1,2019-08-16,"female",NA,NA,NA,NA,NA,NA
+2,"low","competitor","2 sp","present",2,2019-08-16,"male",1,9.6,0,NA,162,0.563189010939744
+2,"low","competitor","2 sp","present",2,2019-08-16,"female",NA,NA,NA,NA,NA,NA
+3,"low","competitor","2 sp","present",3,2019-08-16,"male",3,10,49,48,141,0.805413356959462
+3,"low","competitor","2 sp","present",3,2019-08-16,"female",NA,NA,NA,NA,NA,NA
+4,"low","competitor","2 sp","present",4,2019-08-16,"male",1,9,4,48,54,0.647277119673181
+4,"low","competitor","2 sp","present",4,2019-08-16,"female",NA,NA,NA,NA,NA,NA
+5,"low","competitor","2 sp","present",5,2019-08-16,"male",1,9.1,15,48,256,0.639248456621494
+5,"low","competitor","2 sp","present",5,2019-08-16,"female",NA,NA,NA,NA,NA,NA
+6,"high","competitor","2 sp","present",1,2019-08-16,"male",0,NA,NA,NA,NA,NA
+6,"high","competitor","2 sp","present",1,2019-08-16,"female",NA,NA,NA,NA,NA,NA
+7,"high","competitor","2 sp","present",2,2019-08-16,"male",2,9.5,47,43.5,163,0.919549906308862
+7,"high","competitor","2 sp","present",2,2019-08-16,"female",NA,NA,NA,NA,NA,NA
+8,"high","competitor","2 sp","present",3,2019-08-16,"male",2,10.4,10,49.5,112,0.727449287730115
+8,"high","competitor","2 sp","present",3,2019-08-16,"female",NA,NA,NA,NA,NA,NA
+9,"high","competitor","2 sp","present",4,2019-08-16,"male",1,9.5,25,48.5,361,0.569196562731276
+9,"high","competitor","2 sp","present",4,2019-08-16,"female",NA,NA,NA,NA,NA,NA
+10,"high","competitor","2 sp","present",5,2019-08-16,"male",2,10.5,2,NA,36,0.821701204684572
+10,"high","competitor","2 sp","present",5,2019-08-16,"female",NA,10.5,109,43.5,NA,NA
+11,"low","csr","6 sp","present",1,2019-08-16,"male",1,11.5,NA,NA,35,0.720640893181392
+11,"low","csr","6 sp","present",1,2019-08-16,"female",NA,NA,NA,NA,NA,NA
+12,"low","csr","6 sp","present",2,2019-08-16,"male",1,9.5,5,NA,69,0.895299572134004
+12,"low","csr","6 sp","present",2,2019-08-16,"female",NA,NA,NA,NA,NA,NA
+13,"low","csr","6 sp","present",3,2019-08-16,"male",3,9.4,NA,NA,26,0.90282091502463
+13,"low","csr","6 sp","present",3,2019-08-16,"female",NA,NA,NA,NA,NA,NA
+14,"low","csr","6 sp","present",4,2019-08-16,"male",0,NA,NA,NA,NA,NA
+14,"low","csr","6 sp","present",4,2019-08-16,"female",NA,NA,NA,NA,NA,NA
+15,"low","csr","6 sp","present",5,2019-08-16,"male",0,NA,NA,NA,NA,NA
+15,"low","csr","6 sp","present",5,2019-08-16,"female",NA,NA,NA,NA,NA,NA
+16,"high","csr","6 sp","present",1,2019-08-16,"male",2,11,NA,NA,361,0.802344263760696
+16,"high","csr","6 sp","present",1,2019-08-16,"female",NA,NA,NA,NA,NA,NA
+17,"high","csr","6 sp","present",2,2019-08-16,"male",1,10,NA,NA,40,0.574456895996873
+17,"high","csr","6 sp","present",2,2019-08-16,"female",NA,NA,NA,NA,NA,NA
+18,"high","csr","6 sp","present",3,2019-08-16,"male",2,11.5,NA,NA,74,0.702944505936239
+18,"high","csr","6 sp","present",3,2019-08-16,"female",NA,NA,NA,NA,NA,NA
+19,"high","csr","6 sp","present",4,2019-08-16,"male",0,NA,NA,NA,NA,NA
+19,"high","csr","6 sp","present",4,2019-08-16,"female",NA,NA,NA,NA,NA,NA
+20,"high","csr","6 sp","present",5,2019-08-16,"male",0,NA,NA,NA,NA,NA
+20,"high","csr","6 sp","present",5,2019-08-16,"female",NA,NA,NA,NA,NA,NA
+21,"low","none","0 sp","absent",1,2019-08-16,"male",2,8,1,NA,35,0.436679879232008
+21,"low","none","0 sp","absent",1,2019-08-16,"female",NA,NA,NA,NA,NA,NA
+22,"low","none","0 sp","absent",2,2019-08-16,"male",1,9.5,4,47,131,0.922388359893414
+22,"low","none","0 sp","absent",2,2019-08-16,"female",NA,NA,NA,NA,NA,NA
+23,"low","none","0 sp","absent",3,2019-08-16,"male",1,11.4,5,48,141,0.490504648554818
+23,"low","none","0 sp","absent",3,2019-08-16,"female",NA,NA,NA,NA,NA,NA
+24,"low","none","0 sp","absent",4,2019-08-16,"male",1,9.9,1,NA,148,0.715210010980282
+24,"low","none","0 sp","absent",4,2019-08-16,"female",NA,NA,NA,NA,NA,NA
+25,"low","none","0 sp","absent",5,2019-08-16,"male",0,NA,NA,NA,NA,NA
+25,"low","none","0 sp","absent",5,2019-08-16,"female",NA,NA,NA,NA,NA,NA
+26,"high","none","0 sp","absent",1,2019-08-16,"male",1,8.9,NA,NA,108,0.685510340196765
+26,"high","none","0 sp","absent",1,2019-08-16,"female",NA,NA,NA,NA,NA,NA
+27,"high","none","0 sp","absent",2,2019-08-16,"male",1,11.4,2,NA,235,0.800252712716249
+27,"high","none","0 sp","absent",2,2019-08-16,"female",NA,NA,NA,NA,NA,NA
+28,"high","none","0 sp","absent",3,2019-08-16,"male",1,9.6,10,65,28,0.680611806035787
+28,"high","none","0 sp","absent",3,2019-08-16,"female",NA,NA,NA,NA,NA,NA
+29,"high","none","0 sp","absent",4,2019-08-16,"male",2,9,12,46,83,0.493416352891698
+29,"high","none","0 sp","absent",4,2019-08-16,"female",NA,9,149,42,NA,NA
+30,"high","none","0 sp","absent",5,2019-08-16,"male",1,8.4,11,47.5,60,0.786331554456314
+30,"high","none","0 sp","absent",5,2019-08-16,"female",NA,NA,NA,NA,NA,NA
+31,"low","ruderal","2 sp","present",1,2019-08-16,"male",2,10.5,31,46,220,0.65160915034766
+31,"low","ruderal","2 sp","present",1,2019-08-16,"female",NA,9.5,151,46.5,NA,NA
+32,"low","ruderal","2 sp","present",2,2019-08-16,"male",0,NA,NA,NA,NA,NA
+32,"low","ruderal","2 sp","present",2,2019-08-16,"female",NA,NA,NA,NA,NA,NA
+33,"low","ruderal","2 sp","present",3,2019-08-16,"male",1,11.5,78,49,27,0.630517980041676
+33,"low","ruderal","2 sp","present",3,2019-08-16,"female",NA,NA,NA,NA,NA,NA
+34,"low","ruderal","2 sp","present",4,2019-08-16,"male",0,NA,NA,NA,NA,NA
+34,"low","ruderal","2 sp","present",4,2019-08-16,"female",NA,NA,NA,NA,NA,NA
+35,"low","ruderal","2 sp","present",5,2019-08-16,"male",1,8.5,42,45.5,98,0.635234639614344
+35,"low","ruderal","2 sp","present",5,2019-08-16,"female",NA,NA,NA,NA,NA,NA
+36,"high","ruderal","2 sp","present",1,2019-08-16,"male",0,NA,NA,NA,NA,NA
+36,"high","ruderal","2 sp","present",1,2019-08-16,"female",NA,NA,NA,NA,NA,NA
+37,"high","ruderal","2 sp","present",2,2019-08-16,"male",1,11.5,NA,NA,38,0.770147413788412
+37,"high","ruderal","2 sp","present",2,2019-08-16,"female",NA,NA,NA,NA,NA,NA
+38,"high","ruderal","2 sp","present",3,2019-08-16,"male",0,NA,NA,NA,NA,NA
+38,"high","ruderal","2 sp","present",3,2019-08-16,"female",NA,NA,NA,NA,NA,NA
+39,"high","ruderal","2 sp","present",4,2019-08-16,"male",5,9.5,NA,NA,24,0.436411901308628
+39,"high","ruderal","2 sp","present",4,2019-08-16,"female",NA,6.9,NA,NA,NA,NA
+40,"high","ruderal","2 sp","present",5,2019-08-16,"male",1,12,NA,NA,211,0.617912257803531
+40,"high","ruderal","2 sp","present",5,2019-08-16,"female",NA,NA,NA,NA,NA,NA
+41,"low","stress tolerant","2 sp","present",1,2019-08-16,"male",2,11.5,45,50,403,0.395133640304655
+41,"low","stress tolerant","2 sp","present",1,2019-08-16,"female",NA,8.5,45,46,NA,NA
+42,"low","stress tolerant","2 sp","present",2,2019-08-16,"male",1,10.6,NA,NA,272,0.976784351054573
+42,"low","stress tolerant","2 sp","present",2,2019-08-16,"female",NA,NA,NA,NA,NA,NA
+43,"low","stress tolerant","2 sp","present",3,2019-08-16,"male",1,11.1,NA,NA,78,0.536032539170992
+43,"low","stress tolerant","2 sp","present",3,2019-08-16,"female",NA,NA,NA,NA,NA,NA
+44,"low","stress tolerant","2 sp","present",4,2019-08-16,"male",1,9,NA,NA,223,0.681814153880971
+44,"low","stress tolerant","2 sp","present",4,2019-08-16,"female",NA,NA,NA,NA,NA,NA
+45,"low","stress tolerant","2 sp","present",5,2019-08-16,"male",1,10,8,49.5,58,0.564112907058732
+45,"low","stress tolerant","2 sp","present",5,2019-08-16,"female",NA,NA,NA,NA,NA,NA
+46,"high","stress tolerant","2 sp","present",1,2019-08-16,"male",1,10,25,51,27,0.849841430033523
+46,"high","stress tolerant","2 sp","present",1,2019-08-16,"female",NA,NA,NA,NA,NA,NA
+47,"high","stress tolerant","2 sp","present",2,2019-08-16,"male",0,NA,NA,NA,NA,NA
+47,"high","stress tolerant","2 sp","present",2,2019-08-16,"female",NA,NA,NA,NA,NA,NA
+48,"high","stress tolerant","2 sp","present",3,2019-08-16,"male",1,10.6,4,NA,19,0.55671685430566
+48,"high","stress tolerant","2 sp","present",3,2019-08-16,"female",NA,NA,NA,NA,NA,NA
+49,"high","stress tolerant","2 sp","present",4,2019-08-16,"male",0,NA,NA,NA,NA,NA
+49,"high","stress tolerant","2 sp","present",4,2019-08-16,"female",NA,NA,NA,NA,NA,NA
+50,"high","stress tolerant","2 sp","present",5,2019-08-16,"male",1,11,84,47.5,35,0.586232423150459
+50,"high","stress tolerant","2 sp","present",5,2019-08-16,"female",NA,NA,NA,NA,NA,NA
+1,"low","competitor","2 sp","present",1,2019-08-07,"male",0,NA,NA,NA,NA,NA
+1,"low","competitor","2 sp","present",1,2019-08-07,"female",NA,NA,NA,NA,NA,NA
+2,"low","competitor","2 sp","present",2,2019-08-07,"male",0,8.5,NA,NA,29,0.705232575597921
+2,"low","competitor","2 sp","present",2,2019-08-07,"female",NA,NA,NA,NA,NA,NA
+3,"low","competitor","2 sp","present",3,2019-08-07,"male",0,8.5,NA,NA,147,0.748120563746065
+3,"low","competitor","2 sp","present",3,2019-08-07,"female",NA,NA,NA,NA,NA,NA
+4,"low","competitor","2 sp","present",4,2019-08-07,"male",0,NA,NA,NA,NA,NA
+4,"low","competitor","2 sp","present",4,2019-08-07,"female",NA,NA,NA,NA,NA,NA
+5,"low","competitor","2 sp","present",5,2019-08-07,"male",0,NA,NA,NA,NA,NA
+5,"low","competitor","2 sp","present",5,2019-08-07,"female",NA,NA,NA,NA,NA,NA
+6,"high","competitor","2 sp","present",1,2019-08-07,"male",0,NA,NA,NA,NA,NA
+6,"high","competitor","2 sp","present",1,2019-08-07,"female",NA,NA,NA,NA,NA,NA
+7,"high","competitor","2 sp","present",2,2019-08-07,"male",0,8.5,10,NA,219,0.611097571422308
+7,"high","competitor","2 sp","present",2,2019-08-07,"female",NA,NA,NA,NA,NA,NA
+8,"high","competitor","2 sp","present",3,2019-08-07,"male",0,8.9,5,NA,76,0.540113638361291
+8,"high","competitor","2 sp","present",3,2019-08-07,"female",NA,NA,NA,NA,NA,NA
+9,"high","competitor","2 sp","present",4,2019-08-07,"male",0,NA,NA,NA,NA,NA
+9,"high","competitor","2 sp","present",4,2019-08-07,"female",NA,NA,NA,NA,NA,NA
+10,"high","competitor","2 sp","present",5,2019-08-07,"male",0,NA,NA,NA,NA,NA
+10,"high","competitor","2 sp","present",5,2019-08-07,"female",NA,NA,NA,NA,NA,NA
+11,"low","csr","6 sp","present",1,2019-08-07,"male",0,8,NA,NA,48,0.617445575449089
+11,"low","csr","6 sp","present",1,2019-08-07,"female",NA,NA,NA,NA,NA,NA
+12,"low","csr","6 sp","present",2,2019-08-07,"male",0,7.5,NA,NA,323,0.741431060672396
+12,"low","csr","6 sp","present",2,2019-08-07,"female",NA,NA,NA,NA,NA,NA
+13,"low","csr","6 sp","present",3,2019-08-07,"male",0,NA,NA,NA,NA,NA
+13,"low","csr","6 sp","present",3,2019-08-07,"female",NA,NA,NA,NA,NA,NA
+14,"low","csr","6 sp","present",4,2019-08-07,"male",0,10,2,NA,219,0.539621613454
+14,"low","csr","6 sp","present",4,2019-08-07,"female",NA,NA,NA,NA,NA,NA
+15,"low","csr","6 sp","present",5,2019-08-07,"male",0,8.6,10,47.5,40,0.797299320383902
+15,"low","csr","6 sp","present",5,2019-08-07,"female",NA,NA,NA,NA,NA,NA
+16,"high","csr","6 sp","present",1,2019-08-07,"male",0,NA,NA,NA,57,0.642268838163998
+16,"high","csr","6 sp","present",1,2019-08-07,"female",NA,NA,NA,NA,NA,NA
+17,"high","csr","6 sp","present",2,2019-08-07,"male",0,8.9,NA,NA,NA,NA
+17,"high","csr","6 sp","present",2,2019-08-07,"female",NA,NA,NA,NA,NA,NA
+18,"high","csr","6 sp","present",3,2019-08-07,"male",0,10.4,4,48.5,1013,0.488644514531458
+18,"high","csr","6 sp","present",3,2019-08-07,"female",NA,NA,NA,NA,NA,NA
+19,"high","csr","6 sp","present",4,2019-08-07,"male",0,NA,NA,NA,NA,NA
+19,"high","csr","6 sp","present",4,2019-08-07,"female",NA,9.9,243,45,NA,NA
+20,"high","csr","6 sp","present",5,2019-08-07,"male",0,9.5,6,51,190,0.428392776046902
+20,"high","csr","6 sp","present",5,2019-08-07,"female",NA,NA,NA,NA,NA,NA
+21,"low","none","0 sp","absent",1,2019-08-07,"male",0,NA,NA,NA,NA,NA
+21,"low","none","0 sp","absent",1,2019-08-07,"female",NA,NA,NA,NA,NA,NA
+22,"low","none","0 sp","absent",2,2019-08-07,"male",0,NA,NA,NA,NA,NA
+22,"low","none","0 sp","absent",2,2019-08-07,"female",NA,NA,NA,NA,NA,NA
+23,"low","none","0 sp","absent",3,2019-08-07,"male",0,NA,NA,NA,67,0.508343639380503
+23,"low","none","0 sp","absent",3,2019-08-07,"female",NA,NA,NA,NA,NA,NA
+24,"low","none","0 sp","absent",4,2019-08-07,"male",0,8.5,NA,NA,NA,NA
+24,"low","none","0 sp","absent",4,2019-08-07,"female",NA,NA,NA,NA,NA,NA
+25,"low","none","0 sp","absent",5,2019-08-07,"male",0,NA,NA,NA,NA,NA
+25,"low","none","0 sp","absent",5,2019-08-07,"female",NA,NA,NA,NA,NA,NA
+26,"high","none","0 sp","absent",1,2019-08-07,"male",0,8.6,7,NA,122,0.417998958601701
+26,"high","none","0 sp","absent",1,2019-08-07,"female",NA,9,26,47,NA,NA
+27,"high","none","0 sp","absent",2,2019-08-07,"male",0,NA,NA,NA,NA,NA
+27,"high","none","0 sp","absent",2,2019-08-07,"female",NA,NA,NA,NA,NA,NA
+28,"high","none","0 sp","absent",3,2019-08-07,"male",0,NA,NA,NA,NA,NA
+28,"high","none","0 sp","absent",3,2019-08-07,"female",NA,NA,NA,NA,NA,NA
+29,"high","none","0 sp","absent",4,2019-08-07,"male",0,NA,NA,NA,NA,NA
+29,"high","none","0 sp","absent",4,2019-08-07,"female",NA,NA,NA,NA,NA,NA
+30,"high","none","0 sp","absent",5,2019-08-07,"male",0,NA,NA,NA,NA,NA
+30,"high","none","0 sp","absent",5,2019-08-07,"female",NA,NA,NA,NA,NA,NA
+31,"low","ruderal","2 sp","present",1,2019-08-07,"male",0,7.5,3,NA,181,0.641011645968333
+31,"low","ruderal","2 sp","present",1,2019-08-07,"female",NA,NA,NA,NA,NA,NA
+32,"low","ruderal","2 sp","present",2,2019-08-07,"male",0,8.4,NA,NA,98,0.613999517486277
+32,"low","ruderal","2 sp","present",2,2019-08-07,"female",NA,NA,NA,NA,NA,NA
+33,"low","ruderal","2 sp","present",3,2019-08-07,"male",0,8.4,0.5,NA,109,0.548532964463401
+33,"low","ruderal","2 sp","present",3,2019-08-07,"female",NA,NA,NA,NA,NA,NA
+34,"low","ruderal","2 sp","present",4,2019-08-07,"male",0,8.9,22,46.5,67,0.733684361145588
+34,"low","ruderal","2 sp","present",4,2019-08-07,"female",NA,NA,NA,NA,NA,NA
+35,"low","ruderal","2 sp","present",5,2019-08-07,"male",0,NA,NA,NA,NA,NA
+35,"low","ruderal","2 sp","present",5,2019-08-07,"female",NA,NA,NA,NA,NA,NA
+36,"high","ruderal","2 sp","present",1,2019-08-07,"male",0,8.5,11,45.5,53,0.455393338878463
+36,"high","ruderal","2 sp","present",1,2019-08-07,"female",NA,NA,NA,NA,NA,NA
+37,"high","ruderal","2 sp","present",2,2019-08-07,"male",0,NA,NA,NA,NA,NA
+37,"high","ruderal","2 sp","present",2,2019-08-07,"female",NA,NA,NA,NA,NA,NA
+38,"high","ruderal","2 sp","present",3,2019-08-07,"male",0,8,26,48,34,0.606560300455971
+38,"high","ruderal","2 sp","present",3,2019-08-07,"female",NA,NA,NA,NA,NA,NA
+39,"high","ruderal","2 sp","present",4,2019-08-07,"male",0,7.9,NA,NA,41,0.509073107713592
+39,"high","ruderal","2 sp","present",4,2019-08-07,"female",NA,NA,NA,NA,NA,NA
+40,"high","ruderal","2 sp","present",5,2019-08-07,"male",0,8,NA,NA,141,0.467074218790371
+40,"high","ruderal","2 sp","present",5,2019-08-07,"female",NA,NA,NA,NA,NA,NA
+41,"low","stress tolerant","2 sp","present",1,2019-08-07,"male",0,NA,NA,NA,NA,NA
+41,"low","stress tolerant","2 sp","present",1,2019-08-07,"female",NA,NA,NA,NA,NA,NA
+42,"low","stress tolerant","2 sp","present",2,2019-08-07,"male",0,NA,NA,NA,NA,NA
+42,"low","stress tolerant","2 sp","present",2,2019-08-07,"female",NA,NA,NA,NA,NA,NA
+43,"low","stress tolerant","2 sp","present",3,2019-08-07,"male",0,7.5,15,47,NA,NA
+43,"low","stress tolerant","2 sp","present",3,2019-08-07,"female",NA,NA,NA,NA,NA,NA
+44,"low","stress tolerant","2 sp","present",4,2019-08-07,"male",0,NA,NA,NA,NA,NA
+44,"low","stress tolerant","2 sp","present",4,2019-08-07,"female",NA,NA,NA,NA,NA,NA
+45,"low","stress tolerant","2 sp","present",5,2019-08-07,"male",0,8.6,NA,NA,101,0.472132638140808
+45,"low","stress tolerant","2 sp","present",5,2019-08-07,"female",NA,NA,NA,NA,NA,NA
+46,"high","stress tolerant","2 sp","present",1,2019-08-07,"male",0,NA,NA,NA,NA,NA
+46,"high","stress tolerant","2 sp","present",1,2019-08-07,"female",NA,NA,NA,NA,NA,NA
+47,"high","stress tolerant","2 sp","present",2,2019-08-07,"male",0,7.5,5,NA,217,0.53018424910053
+47,"high","stress tolerant","2 sp","present",2,2019-08-07,"female",NA,NA,NA,NA,NA,NA
+48,"high","stress tolerant","2 sp","present",3,2019-08-07,"male",0,8.5,NA,NA,151,0.597374577421696
+48,"high","stress tolerant","2 sp","present",3,2019-08-07,"female",NA,9.4,47,44,NA,NA
+49,"high","stress tolerant","2 sp","present",4,2019-08-07,"male",0,8.1,NA,NA,166,0.477181089404002
+49,"high","stress tolerant","2 sp","present",4,2019-08-07,"female",NA,NA,NA,NA,NA,NA
+50,"high","stress tolerant","2 sp","present",5,2019-08-07,"male",0,10,17,43,34,0.442728749375697
+50,"high","stress tolerant","2 sp","present",5,2019-08-07,"female",NA,NA,NA,NA,NA,NA
+1,"low","competitor","2 sp","present",1,2019-08-08,"male",0,NA,NA,NA,NA,NA
+1,"low","competitor","2 sp","present",1,2019-08-08,"female",NA,NA,NA,NA,NA,NA
+2,"low","competitor","2 sp","present",2,2019-08-08,"male",3,6.4,NA,NA,111,NA
+2,"low","competitor","2 sp","present",2,2019-08-08,"female",NA,NA,NA,NA,NA,NA
+3,"low","competitor","2 sp","present",3,2019-08-08,"male",4,NA,127,46,NA,NA
+3,"low","competitor","2 sp","present",3,2019-08-08,"female",NA,NA,NA,NA,NA,NA
+4,"low","competitor","2 sp","present",4,2019-08-08,"male",2,NA,NA,NA,NA,NA
+4,"low","competitor","2 sp","present",4,2019-08-08,"female",NA,NA,NA,NA,NA,NA
+5,"low","competitor","2 sp","present",5,2019-08-08,"male",2,7.5,NA,NA,488,NA
+5,"low","competitor","2 sp","present",5,2019-08-08,"female",NA,NA,NA,NA,NA,NA
+6,"high","competitor","2 sp","present",1,2019-08-08,"male",2,NA,NA,NA,NA,NA
+6,"high","competitor","2 sp","present",1,2019-08-08,"female",NA,10.4,189,46.5,NA,NA
+7,"high","competitor","2 sp","present",2,2019-08-08,"male",3,NA,NA,NA,NA,NA
+7,"high","competitor","2 sp","present",2,2019-08-08,"female",NA,NA,NA,NA,NA,NA
+8,"high","competitor","2 sp","present",3,2019-08-08,"male",2,NA,NA,NA,NA,NA
+8,"high","competitor","2 sp","present",3,2019-08-08,"female",NA,NA,NA,NA,NA,NA
+9,"high","competitor","2 sp","present",4,2019-08-08,"male",1,NA,NA,NA,NA,NA
+9,"high","competitor","2 sp","present",4,2019-08-08,"female",NA,NA,NA,NA,NA,NA
+10,"high","competitor","2 sp","present",5,2019-08-08,"male",6,7,NA,NA,169,NA
+10,"high","competitor","2 sp","present",5,2019-08-08,"female",NA,NA,NA,NA,NA,NA
+11,"low","csr","6 sp","present",1,2019-08-08,"male",3,8.5,NA,NA,185,NA
+11,"low","csr","6 sp","present",1,2019-08-08,"female",NA,NA,NA,NA,NA,NA
+12,"low","csr","6 sp","present",2,2019-08-08,"male",2,8.4,NA,NA,243,NA
+12,"low","csr","6 sp","present",2,2019-08-08,"female",NA,NA,NA,NA,NA,NA
+13,"low","csr","6 sp","present",3,2019-08-08,"male",3,9,NA,NA,106,NA
+13,"low","csr","6 sp","present",3,2019-08-08,"female",NA,NA,NA,NA,NA,NA
+14,"low","csr","6 sp","present",4,2019-08-08,"male",1,NA,NA,NA,NA,NA
+14,"low","csr","6 sp","present",4,2019-08-08,"female",NA,NA,NA,NA,NA,NA
+15,"low","csr","6 sp","present",5,2019-08-08,"male",2,NA,NA,NA,NA,NA
+15,"low","csr","6 sp","present",5,2019-08-08,"female",NA,NA,NA,NA,NA,NA
+16,"high","csr","6 sp","present",1,2019-08-08,"male",4,NA,NA,NA,NA,NA
+16,"high","csr","6 sp","present",1,2019-08-08,"female",NA,NA,NA,NA,NA,NA
+17,"high","csr","6 sp","present",2,2019-08-08,"male",4,NA,NA,NA,NA,NA
+17,"high","csr","6 sp","present",2,2019-08-08,"female",NA,NA,NA,NA,NA,NA
+18,"high","csr","6 sp","present",3,2019-08-08,"male",2,NA,NA,NA,NA,NA
+18,"high","csr","6 sp","present",3,2019-08-08,"female",NA,NA,NA,NA,NA,NA
+19,"high","csr","6 sp","present",4,2019-08-08,"male",3,10,NA,NA,218,NA
+19,"high","csr","6 sp","present",4,2019-08-08,"female",NA,NA,NA,NA,NA,NA
+20,"high","csr","6 sp","present",5,2019-08-08,"male",1,NA,NA,NA,NA,NA
+20,"high","csr","6 sp","present",5,2019-08-08,"female",NA,NA,NA,NA,NA,NA
+21,"low","none","0 sp","absent",1,2019-08-08,"male",1,6.6,NA,NA,NA,NA
+21,"low","none","0 sp","absent",1,2019-08-08,"female",NA,NA,NA,NA,NA,NA
+22,"low","none","0 sp","absent",2,2019-08-08,"male",2,8.5,NA,NA,44,NA
+22,"low","none","0 sp","absent",2,2019-08-08,"female",NA,NA,NA,NA,NA,NA
+23,"low","none","0 sp","absent",3,2019-08-08,"male",2,NA,NA,NA,NA,NA
+23,"low","none","0 sp","absent",3,2019-08-08,"female",NA,NA,NA,NA,NA,NA
+24,"low","none","0 sp","absent",4,2019-08-08,"male",1,7.5,NA,NA,66,NA
+24,"low","none","0 sp","absent",4,2019-08-08,"female",NA,NA,NA,NA,NA,NA
+25,"low","none","0 sp","absent",5,2019-08-08,"male",1,NA,NA,NA,NA,NA
+25,"low","none","0 sp","absent",5,2019-08-08,"female",NA,NA,NA,NA,NA,NA
+26,"high","none","0 sp","absent",1,2019-08-08,"male",2,NA,NA,NA,NA,NA
+26,"high","none","0 sp","absent",1,2019-08-08,"female",NA,NA,NA,NA,NA,NA
+27,"high","none","0 sp","absent",2,2019-08-08,"male",0,NA,NA,NA,NA,NA
+27,"high","none","0 sp","absent",2,2019-08-08,"female",NA,NA,NA,NA,NA,NA
+28,"high","none","0 sp","absent",3,2019-08-08,"male",1,7,NA,NA,72,NA
+28,"high","none","0 sp","absent",3,2019-08-08,"female",NA,NA,NA,NA,NA,NA
+29,"high","none","0 sp","absent",4,2019-08-08,"male",0,NA,NA,NA,NA,NA
+29,"high","none","0 sp","absent",4,2019-08-08,"female",NA,NA,NA,NA,NA,NA
+30,"high","none","0 sp","absent",5,2019-08-08,"male",3,NA,NA,NA,NA,NA
+30,"high","none","0 sp","absent",5,2019-08-08,"female",NA,9.4,277,42,NA,NA
+31,"low","ruderal","2 sp","present",1,2019-08-08,"male",3,NA,NA,NA,NA,NA
+31,"low","ruderal","2 sp","present",1,2019-08-08,"female",NA,10.1,335,46.5,NA,NA
+32,"low","ruderal","2 sp","present",2,2019-08-08,"male",3,NA,NA,NA,NA,NA
+32,"low","ruderal","2 sp","present",2,2019-08-08,"female",NA,NA,NA,NA,NA,NA
+33,"low","ruderal","2 sp","present",3,2019-08-08,"male",3,9.5,NA,NA,67,NA
+33,"low","ruderal","2 sp","present",3,2019-08-08,"female",NA,NA,NA,NA,NA,NA
+34,"low","ruderal","2 sp","present",4,2019-08-08,"male",1,9.5,NA,NA,28,NA
+34,"low","ruderal","2 sp","present",4,2019-08-08,"female",NA,NA,NA,NA,NA,NA
+35,"low","ruderal","2 sp","present",5,2019-08-08,"male",2,NA,NA,NA,NA,NA
+35,"low","ruderal","2 sp","present",5,2019-08-08,"female",NA,NA,NA,NA,NA,NA
+36,"high","ruderal","2 sp","present",1,2019-08-08,"male",3,NA,NA,NA,NA,NA
+36,"high","ruderal","2 sp","present",1,2019-08-08,"female",NA,NA,NA,NA,NA,NA
+37,"high","ruderal","2 sp","present",2,2019-08-08,"male",5,8.9,NA,NA,47,NA
+37,"high","ruderal","2 sp","present",2,2019-08-08,"female",NA,NA,NA,NA,NA,NA
+38,"high","ruderal","2 sp","present",3,2019-08-08,"male",4,NA,NA,NA,NA,NA
+38,"high","ruderal","2 sp","present",3,2019-08-08,"female",NA,NA,NA,NA,NA,NA
+39,"high","ruderal","2 sp","present",4,2019-08-08,"male",4,NA,NA,NA,NA,NA
+39,"high","ruderal","2 sp","present",4,2019-08-08,"female",NA,NA,NA,NA,NA,NA
+40,"high","ruderal","2 sp","present",5,2019-08-08,"male",3,10.5,NA,NA,190,NA
+40,"high","ruderal","2 sp","present",5,2019-08-08,"female",NA,NA,345,48,NA,NA
+41,"low","stress tolerant","2 sp","present",1,2019-08-08,"male",2,9.4,NA,NA,453,NA
+41,"low","stress tolerant","2 sp","present",1,2019-08-08,"female",NA,NA,NA,NA,NA,NA
+42,"low","stress tolerant","2 sp","present",2,2019-08-08,"male",2,NA,NA,NA,NA,NA
+42,"low","stress tolerant","2 sp","present",2,2019-08-08,"female",NA,NA,NA,NA,NA,NA
+43,"low","stress tolerant","2 sp","present",3,2019-08-08,"male",2,10.4,NA,NA,118,NA
+43,"low","stress tolerant","2 sp","present",3,2019-08-08,"female",NA,11.5,NA,NA,NA,NA
+44,"low","stress tolerant","2 sp","present",4,2019-08-08,"male",1,8.5,NA,NA,116,NA
+44,"low","stress tolerant","2 sp","present",4,2019-08-08,"female",NA,NA,NA,NA,NA,NA
+45,"low","stress tolerant","2 sp","present",5,2019-08-08,"male",2,NA,NA,NA,NA,NA
+45,"low","stress tolerant","2 sp","present",5,2019-08-08,"female",NA,NA,NA,NA,NA,NA
+46,"high","stress tolerant","2 sp","present",1,2019-08-08,"male",1,NA,NA,NA,NA,NA
+46,"high","stress tolerant","2 sp","present",1,2019-08-08,"female",NA,9.5,191,47.5,NA,NA
+47,"high","stress tolerant","2 sp","present",2,2019-08-08,"male",4,9.4,NA,NA,65,NA
+47,"high","stress tolerant","2 sp","present",2,2019-08-08,"female",NA,NA,NA,NA,NA,NA
+48,"high","stress tolerant","2 sp","present",3,2019-08-08,"male",5,NA,NA,NA,NA,NA
+48,"high","stress tolerant","2 sp","present",3,2019-08-08,"female",NA,NA,NA,NA,NA,NA
+49,"high","stress tolerant","2 sp","present",4,2019-08-08,"male",1,NA,NA,NA,NA,NA
+49,"high","stress tolerant","2 sp","present",4,2019-08-08,"female",NA,NA,NA,NA,NA,NA
+50,"high","stress tolerant","2 sp","present",5,2019-08-08,"male",3,NA,NA,NA,NA,NA
+50,"high","stress tolerant","2 sp","present",5,2019-08-08,"female",NA,11.5,224,38,NA,NA
+1,"low","competitor","2 sp","present",1,2019-08-09,"male",0,NA,NA,NA,NA,NA
+1,"low","competitor","2 sp","present",1,2019-08-09,"female",NA,NA,NA,NA,NA,NA
+2,"low","competitor","2 sp","present",2,2019-08-09,"male",2,NA,NA,NA,NA,NA
+2,"low","competitor","2 sp","present",2,2019-08-09,"female",NA,NA,NA,NA,NA,NA
+3,"low","competitor","2 sp","present",3,2019-08-09,"male",5,10,78,49.5,19,0.651011270180898
+3,"low","competitor","2 sp","present",3,2019-08-09,"female",NA,NA,NA,NA,NA,NA
+4,"low","competitor","2 sp","present",4,2019-08-09,"male",2,NA,NA,NA,NA,NA
+4,"low","competitor","2 sp","present",4,2019-08-09,"female",NA,NA,NA,NA,NA,NA
+5,"low","competitor","2 sp","present",5,2019-08-09,"male",2,NA,NA,NA,NA,NA
+5,"low","competitor","2 sp","present",5,2019-08-09,"female",NA,NA,NA,NA,NA,NA
+6,"high","competitor","2 sp","present",1,2019-08-09,"male",3,10,32,47.5,430,0.787946164447268
+6,"high","competitor","2 sp","present",1,2019-08-09,"female",NA,NA,NA,NA,NA,NA
+7,"high","competitor","2 sp","present",2,2019-08-09,"male",1,NA,NA,NA,NA,NA
+7,"high","competitor","2 sp","present",2,2019-08-09,"female",NA,NA,NA,NA,NA,NA
+8,"high","competitor","2 sp","present",3,2019-08-09,"male",2,NA,NA,NA,NA,NA
+8,"high","competitor","2 sp","present",3,2019-08-09,"female",NA,12,444,49.5,NA,NA
+9,"high","competitor","2 sp","present",4,2019-08-09,"male",0,NA,NA,NA,NA,NA
+9,"high","competitor","2 sp","present",4,2019-08-09,"female",NA,NA,NA,NA,NA,NA
+10,"high","competitor","2 sp","present",5,2019-08-09,"male",2,NA,NA,NA,NA,NA
+10,"high","competitor","2 sp","present",5,2019-08-09,"female",NA,NA,NA,NA,NA,NA
+11,"low","csr","6 sp","present",1,2019-08-09,"male",2,NA,NA,NA,NA,NA
+11,"low","csr","6 sp","present",1,2019-08-09,"female",NA,NA,NA,NA,NA,NA
+12,"low","csr","6 sp","present",2,2019-08-09,"male",3,NA,47,48,86,0.560818217319581
+12,"low","csr","6 sp","present",2,2019-08-09,"female",NA,8.6,NA,NA,NA,NA
+13,"low","csr","6 sp","present",3,2019-08-09,"male",3,9.5,NA,NA,144,0.696637289436839
+13,"low","csr","6 sp","present",3,2019-08-09,"female",NA,NA,NA,NA,NA,NA
+14,"low","csr","6 sp","present",4,2019-08-09,"male",2,10,91,47,341,0.589291919891956
+14,"low","csr","6 sp","present",4,2019-08-09,"female",NA,NA,NA,NA,NA,NA
+15,"low","csr","6 sp","present",5,2019-08-09,"male",1,NA,92,50,17,0.796279536369824
+15,"low","csr","6 sp","present",5,2019-08-09,"female",NA,8.9,NA,NA,NA,NA
+16,"high","csr","6 sp","present",1,2019-08-09,"male",0,8.5,58,41.5,22,0.668906242403309
+16,"high","csr","6 sp","present",1,2019-08-09,"female",NA,NA,324,47,NA,NA
+17,"high","csr","6 sp","present",2,2019-08-09,"male",2,11.1,56,44,315,0.639747582837635
+17,"high","csr","6 sp","present",2,2019-08-09,"female",NA,NA,NA,NA,NA,NA
+18,"high","csr","6 sp","present",3,2019-08-09,"male",3,9.9,NA,NA,523,0.53286113113702
+18,"high","csr","6 sp","present",3,2019-08-09,"female",NA,NA,NA,NA,NA,NA
+19,"high","csr","6 sp","present",4,2019-08-09,"male",3,11.1,158,39.5,68,0.630395756145248
+19,"high","csr","6 sp","present",4,2019-08-09,"female",NA,NA,NA,NA,NA,NA
+20,"high","csr","6 sp","present",5,2019-08-09,"male",2,8.5,32,38.5,129,0.495585852156491
+20,"high","csr","6 sp","present",5,2019-08-09,"female",NA,NA,NA,NA,NA,NA
+21,"low","none","0 sp","absent",1,2019-08-09,"male",1,NA,NA,NA,NA,NA
+21,"low","none","0 sp","absent",1,2019-08-09,"female",NA,NA,NA,NA,NA,NA
+22,"low","none","0 sp","absent",2,2019-08-09,"male",2,9.6,60,40,41,0.497809086541139
+22,"low","none","0 sp","absent",2,2019-08-09,"female",NA,NA,NA,NA,NA,NA
+23,"low","none","0 sp","absent",3,2019-08-09,"male",0,NA,NA,NA,NA,NA
+23,"low","none","0 sp","absent",3,2019-08-09,"female",NA,NA,NA,NA,NA,NA
+24,"low","none","0 sp","absent",4,2019-08-09,"male",2,9.6,42,39,50,0.570646558784478
+24,"low","none","0 sp","absent",4,2019-08-09,"female",NA,NA,NA,NA,NA,NA
+25,"low","none","0 sp","absent",5,2019-08-09,"male",1,9.1,52,58,336,0.616428841555359
+25,"low","none","0 sp","absent",5,2019-08-09,"female",NA,NA,NA,NA,NA,NA
+26,"high","none","0 sp","absent",1,2019-08-09,"male",4,6.5,12,40,32,0.48368376056651
+26,"high","none","0 sp","absent",1,2019-08-09,"female",NA,NA,NA,NA,NA,NA
+27,"high","none","0 sp","absent",2,2019-08-09,"male",1,10.6,57,45,41,0.50155994092293
+27,"high","none","0 sp","absent",2,2019-08-09,"female",NA,NA,NA,NA,NA,NA
+28,"high","none","0 sp","absent",3,2019-08-09,"male",1,NA,NA,NA,NA,NA
+28,"high","none","0 sp","absent",3,2019-08-09,"female",NA,NA,NA,NA,NA,NA
+29,"high","none","0 sp","absent",4,2019-08-09,"male",0,NA,NA,NA,NA,NA
+29,"high","none","0 sp","absent",4,2019-08-09,"female",NA,NA,NA,NA,NA,NA
+30,"high","none","0 sp","absent",5,2019-08-09,"male",3,8.4,95,38,269,0.549763296361506
+30,"high","none","0 sp","absent",5,2019-08-09,"female",NA,NA,NA,NA,NA,NA
+31,"low","ruderal","2 sp","present",1,2019-08-09,"male",3,NA,NA,NA,NA,NA
+31,"low","ruderal","2 sp","present",1,2019-08-09,"female",NA,NA,NA,NA,NA,NA
+32,"low","ruderal","2 sp","present",2,2019-08-09,"male",1,8.9,70,42.5,38,0.570695741037447
+32,"low","ruderal","2 sp","present",2,2019-08-09,"female",NA,NA,351,38.5,NA,NA
+33,"low","ruderal","2 sp","present",3,2019-08-09,"male",2,10.4,73,47,328,0.475220194775964
+33,"low","ruderal","2 sp","present",3,2019-08-09,"female",NA,NA,NA,NA,NA,NA
+34,"low","ruderal","2 sp","present",4,2019-08-09,"male",3,11,95,46.5,46,0.59743469176638
+34,"low","ruderal","2 sp","present",4,2019-08-09,"female",NA,NA,NA,NA,NA,NA
+35,"low","ruderal","2 sp","present",5,2019-08-09,"male",1,9.5,83,44.5,91,0.43263209032524
+35,"low","ruderal","2 sp","present",5,2019-08-09,"female",NA,NA,205,41.5,NA,NA
+36,"high","ruderal","2 sp","present",1,2019-08-09,"male",2,10.6,95,49,85,0.693742316012888
+36,"high","ruderal","2 sp","present",1,2019-08-09,"female",NA,NA,452,46,NA,NA
+37,"high","ruderal","2 sp","present",2,2019-08-09,"male",2,11,102,41,166,0.712337419908565
+37,"high","ruderal","2 sp","present",2,2019-08-09,"female",NA,NA,385,42,NA,NA
+38,"high","ruderal","2 sp","present",3,2019-08-09,"male",4,8.4,57,41,166,0.537103284591149
+38,"high","ruderal","2 sp","present",3,2019-08-09,"female",NA,NA,323,41.5,NA,NA
+39,"high","ruderal","2 sp","present",4,2019-08-09,"male",2,10,51,45,46,0.499031302718458
+39,"high","ruderal","2 sp","present",4,2019-08-09,"female",NA,NA,NA,NA,NA,NA
+40,"high","ruderal","2 sp","present",5,2019-08-09,"male",4,11,156,57,93,0.588449333229451
+40,"high","ruderal","2 sp","present",5,2019-08-09,"female",NA,NA,NA,NA,NA,NA
+41,"low","stress tolerant","2 sp","present",1,2019-08-09,"male",2,12.5,NA,NA,111,0.467373174299714
+41,"low","stress tolerant","2 sp","present",1,2019-08-09,"female",NA,NA,NA,NA,NA,NA
+42,"low","stress tolerant","2 sp","present",2,2019-08-09,"male",2,9.6,74,45.5,138,0.407490644599642
+42,"low","stress tolerant","2 sp","present",2,2019-08-09,"female",NA,NA,NA,NA,NA,NA
+43,"low","stress tolerant","2 sp","present",3,2019-08-09,"male",3,NA,NA,NA,NA,NA
+43,"low","stress tolerant","2 sp","present",3,2019-08-09,"female",NA,NA,NA,NA,NA,NA
+44,"low","stress tolerant","2 sp","present",4,2019-08-09,"male",2,NA,NA,NA,NA,NA
+44,"low","stress tolerant","2 sp","present",4,2019-08-09,"female",NA,NA,NA,NA,NA,NA
+45,"low","stress tolerant","2 sp","present",5,2019-08-09,"male",1,8.6,23,47.5,329,0.518445594879754
+45,"low","stress tolerant","2 sp","present",5,2019-08-09,"female",NA,NA,NA,NA,NA,NA
+46,"high","stress tolerant","2 sp","present",1,2019-08-09,"male",1,NA,NA,NA,NA,NA
+46,"high","stress tolerant","2 sp","present",1,2019-08-09,"female",NA,NA,NA,NA,NA,NA
+47,"high","stress tolerant","2 sp","present",2,2019-08-09,"male",2,10.5,NA,NA,23,0.600771873285516
+47,"high","stress tolerant","2 sp","present",2,2019-08-09,"female",NA,NA,291,51,NA,NA
+48,"high","stress tolerant","2 sp","present",3,2019-08-09,"male",3,9.9,NA,NA,317,0.588859461729076
+48,"high","stress tolerant","2 sp","present",3,2019-08-09,"female",NA,NA,NA,NA,NA,NA
+49,"high","stress tolerant","2 sp","present",4,2019-08-09,"male",1,NA,NA,NA,NA,NA
+49,"high","stress tolerant","2 sp","present",4,2019-08-09,"female",NA,NA,NA,NA,NA,NA
+50,"high","stress tolerant","2 sp","present",5,2019-08-09,"male",4,10.5,NA,NA,25,0.525211774511879
+50,"high","stress tolerant","2 sp","present",5,2019-08-09,"female",NA,NA,NA,NA,NA,NA
+1,"low","competitor","2 sp","present",1,2019-08-11,"male",NA,NA,NA,NA,NA,NA
+1,"low","competitor","2 sp","present",1,2019-08-11,"female",NA,NA,NA,NA,NA,NA
+2,"low","competitor","2 sp","present",2,2019-08-11,"male",NA,8.9,19,46.5,56,0.561970052096291
+2,"low","competitor","2 sp","present",2,2019-08-11,"female",NA,10,NA,NA,NA,NA
+3,"low","competitor","2 sp","present",3,2019-08-11,"male",NA,7.5,87,35,44,0.768459114062483
+3,"low","competitor","2 sp","present",3,2019-08-11,"female",NA,NA,236,46.5,NA,NA
+4,"low","competitor","2 sp","present",4,2019-08-11,"male",NA,8.5,35,46,152,0.747672017903759
+4,"low","competitor","2 sp","present",4,2019-08-11,"female",NA,NA,NA,NA,NA,NA
+5,"low","competitor","2 sp","present",5,2019-08-11,"male",NA,NA,NA,NA,NA,NA
+5,"low","competitor","2 sp","present",5,2019-08-11,"female",NA,10.5,NA,NA,NA,NA
+6,"high","competitor","2 sp","present",1,2019-08-11,"male",NA,10,26,47.5,136,0.749988291355464
+6,"high","competitor","2 sp","present",1,2019-08-11,"female",NA,9.9,210,52,NA,NA
+7,"high","competitor","2 sp","present",2,2019-08-11,"male",NA,8.4,46,33,73,0.596544861282588
+7,"high","competitor","2 sp","present",2,2019-08-11,"female",NA,NA,213,49,NA,NA
+8,"high","competitor","2 sp","present",3,2019-08-11,"male",NA,9.5,77,46,292,0.71473994973765
+8,"high","competitor","2 sp","present",3,2019-08-11,"female",NA,NA,NA,NA,NA,NA
+9,"high","competitor","2 sp","present",4,2019-08-11,"male",NA,7,29,46,1100,0.667077991376984
+9,"high","competitor","2 sp","present",4,2019-08-11,"female",NA,12.5,NA,NA,NA,NA
+10,"high","competitor","2 sp","present",5,2019-08-11,"male",NA,11.1,62,42,252,0.715740806093013
+10,"high","competitor","2 sp","present",5,2019-08-11,"female",NA,NA,250,38.5,NA,NA
+11,"low","csr","6 sp","present",1,2019-08-11,"male",NA,NA,NA,NA,NA,NA
+11,"low","csr","6 sp","present",1,2019-08-11,"female",NA,NA,NA,NA,NA,NA
+12,"low","csr","6 sp","present",2,2019-08-11,"male",NA,NA,NA,NA,NA,NA
+12,"low","csr","6 sp","present",2,2019-08-11,"female",NA,NA,NA,NA,NA,NA
+13,"low","csr","6 sp","present",3,2019-08-11,"male",NA,6.4,NA,NA,66,0.869571029472936
+13,"low","csr","6 sp","present",3,2019-08-11,"female",NA,NA,NA,NA,NA,NA
+14,"low","csr","6 sp","present",4,2019-08-11,"male",NA,NA,NA,NA,NA,NA
+14,"low","csr","6 sp","present",4,2019-08-11,"female",NA,NA,NA,NA,NA,NA
+15,"low","csr","6 sp","present",5,2019-08-11,"male",NA,NA,NA,NA,NA,NA
+15,"low","csr","6 sp","present",5,2019-08-11,"female",NA,NA,NA,NA,NA,NA
+16,"high","csr","6 sp","present",1,2019-08-11,"male",NA,NA,NA,NA,NA,NA
+16,"high","csr","6 sp","present",1,2019-08-11,"female",NA,NA,NA,NA,NA,NA
+17,"high","csr","6 sp","present",2,2019-08-11,"male",NA,11.6,NA,NA,142,0.769518310505432
+17,"high","csr","6 sp","present",2,2019-08-11,"female",NA,NA,NA,NA,NA,NA
+18,"high","csr","6 sp","present",3,2019-08-11,"male",NA,10.4,NA,NA,129,0.542907475035263
+18,"high","csr","6 sp","present",3,2019-08-11,"female",NA,NA,NA,NA,NA,NA
+19,"high","csr","6 sp","present",4,2019-08-11,"male",NA,9,143,42,79,0.760989997077077
+19,"high","csr","6 sp","present",4,2019-08-11,"female",NA,NA,NA,NA,NA,NA
+20,"high","csr","6 sp","present",5,2019-08-11,"male",NA,10.5,89,45,53,0.810447210207942
+20,"high","csr","6 sp","present",5,2019-08-11,"female",NA,10,210,48,NA,NA
+21,"low","none","0 sp","absent",1,2019-08-11,"male",NA,NA,34,43.5,35,0.464682403052382
+21,"low","none","0 sp","absent",1,2019-08-11,"female",NA,NA,NA,NA,NA,NA
+22,"low","none","0 sp","absent",2,2019-08-11,"male",NA,8.9,43,40,242,0.623591812411524
+22,"low","none","0 sp","absent",2,2019-08-11,"female",NA,NA,NA,NA,NA,NA
+23,"low","none","0 sp","absent",3,2019-08-11,"male",NA,NA,NA,NA,NA,NA
+23,"low","none","0 sp","absent",3,2019-08-11,"female",NA,NA,NA,NA,NA,NA
+24,"low","none","0 sp","absent",4,2019-08-11,"male",NA,9.5,39,45,120,0.559021677705179
+24,"low","none","0 sp","absent",4,2019-08-11,"female",NA,NA,NA,NA,NA,NA
+25,"low","none","0 sp","absent",5,2019-08-11,"male",NA,NA,NA,NA,NA,NA
+25,"low","none","0 sp","absent",5,2019-08-11,"female",NA,NA,NA,NA,NA,NA
+26,"high","none","0 sp","absent",1,2019-08-11,"male",NA,NA,NA,NA,NA,NA
+26,"high","none","0 sp","absent",1,2019-08-11,"female",NA,NA,NA,NA,NA,NA
+27,"high","none","0 sp","absent",2,2019-08-11,"male",NA,NA,NA,NA,NA,NA
+27,"high","none","0 sp","absent",2,2019-08-11,"female",NA,NA,NA,NA,NA,NA
+28,"high","none","0 sp","absent",3,2019-08-11,"male",NA,NA,NA,NA,NA,NA
+28,"high","none","0 sp","absent",3,2019-08-11,"female",NA,NA,NA,NA,NA,NA
+29,"high","none","0 sp","absent",4,2019-08-11,"male",NA,9,17,68,83,0.719948170152963
+29,"high","none","0 sp","absent",4,2019-08-11,"female",NA,8.4,244,35.5,NA,NA
+30,"high","none","0 sp","absent",5,2019-08-11,"male",NA,8.6,87,42,54,0.55301982053961
+30,"high","none","0 sp","absent",5,2019-08-11,"female",NA,9,310,43,NA,NA
+31,"low","ruderal","2 sp","present",1,2019-08-11,"male",NA,NA,NA,NA,NA,NA
+31,"low","ruderal","2 sp","present",1,2019-08-11,"female",NA,NA,NA,NA,NA,NA
+32,"low","ruderal","2 sp","present",2,2019-08-11,"male",NA,7,53,42.5,646,0.984042296702507
+32,"low","ruderal","2 sp","present",2,2019-08-11,"female",NA,NA,NA,NA,NA,NA
+33,"low","ruderal","2 sp","present",3,2019-08-11,"male",NA,9,32,46,108,0.620836346534217
+33,"low","ruderal","2 sp","present",3,2019-08-11,"female",NA,NA,NA,NA,NA,NA
+34,"low","ruderal","2 sp","present",4,2019-08-11,"male",NA,9.5,100,40.5,61,0.829008954702905
+34,"low","ruderal","2 sp","present",4,2019-08-11,"female",NA,9,386,29,NA,NA
+35,"low","ruderal","2 sp","present",5,2019-08-11,"male",NA,9.5,73,46,78,0.420811859285893
+35,"low","ruderal","2 sp","present",5,2019-08-11,"female",NA,NA,NA,NA,NA,NA
+36,"high","ruderal","2 sp","present",1,2019-08-11,"male",NA,10.4,78,44,59,0.516602183581621
+36,"high","ruderal","2 sp","present",1,2019-08-11,"female",NA,NA,NA,NA,NA,NA
+37,"high","ruderal","2 sp","present",2,2019-08-11,"male",NA,11,NA,NA,64,0.543088608734624
+37,"high","ruderal","2 sp","present",2,2019-08-11,"female",NA,NA,NA,NA,NA,NA
+38,"high","ruderal","2 sp","present",3,2019-08-11,"male",NA,10,NA,NA,93,0.553351299765053
+38,"high","ruderal","2 sp","present",3,2019-08-11,"female",NA,NA,NA,NA,NA,NA
+39,"high","ruderal","2 sp","present",4,2019-08-11,"male",NA,12.5,51,50,31,0.551024577418464
+39,"high","ruderal","2 sp","present",4,2019-08-11,"female",NA,NA,NA,NA,NA,NA
+40,"high","ruderal","2 sp","present",5,2019-08-11,"male",NA,11.1,NA,NA,79,0.641277324521167
+40,"high","ruderal","2 sp","present",5,2019-08-11,"female",NA,NA,323,47.5,NA,NA
+41,"low","stress tolerant","2 sp","present",1,2019-08-11,"male",NA,8.5,NA,NA,89,0.403635365138449
+41,"low","stress tolerant","2 sp","present",1,2019-08-11,"female",NA,NA,NA,NA,NA,NA
+42,"low","stress tolerant","2 sp","present",2,2019-08-11,"male",NA,NA,NA,NA,NA,NA
+42,"low","stress tolerant","2 sp","present",2,2019-08-11,"female",NA,NA,NA,NA,NA,NA
+43,"low","stress tolerant","2 sp","present",3,2019-08-11,"male",NA,10,68,56,79,0.555551220102346
+43,"low","stress tolerant","2 sp","present",3,2019-08-11,"female",NA,NA,NA,NA,NA,NA
+44,"low","stress tolerant","2 sp","present",4,2019-08-11,"male",NA,10,36,46,326,0.628012564975986
+44,"low","stress tolerant","2 sp","present",4,2019-08-11,"female",NA,NA,NA,NA,NA,NA
+45,"low","stress tolerant","2 sp","present",5,2019-08-11,"male",NA,NA,NA,NA,NA,NA
+45,"low","stress tolerant","2 sp","present",5,2019-08-11,"female",NA,NA,NA,NA,NA,NA
+46,"high","stress tolerant","2 sp","present",1,2019-08-11,"male",NA,9.5,42,46,91,0.821492708016016
+46,"high","stress tolerant","2 sp","present",1,2019-08-11,"female",NA,NA,NA,NA,NA,NA
+47,"high","stress tolerant","2 sp","present",2,2019-08-11,"male",NA,NA,NA,NA,NA,NA
+47,"high","stress tolerant","2 sp","present",2,2019-08-11,"female",NA,NA,NA,NA,NA,NA
+48,"high","stress tolerant","2 sp","present",3,2019-08-11,"male",NA,10.5,19.5,NA,138,0.407318077554076
+48,"high","stress tolerant","2 sp","present",3,2019-08-11,"female",NA,11.5,NA,NA,NA,NA
+49,"high","stress tolerant","2 sp","present",4,2019-08-11,"male",NA,7.5,31,36,64,0.458205388184306
+49,"high","stress tolerant","2 sp","present",4,2019-08-11,"female",NA,NA,NA,NA,NA,NA
+50,"high","stress tolerant","2 sp","present",5,2019-08-11,"male",NA,10.5,57,47,59,0.434858793487521
+50,"high","stress tolerant","2 sp","present",5,2019-08-11,"female",NA,NA,NA,NA,NA,NA
